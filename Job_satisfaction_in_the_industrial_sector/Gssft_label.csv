@@ -1,0 +1,748 @@
+age,educ,sex,degree,satjob,satjob2,income4,rincom91,hrs1,wrkstat,jobinc,impjob,bothft,husbft,husbhr,wifeft,wifehr,id,agecat4
+43,11,Male,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$35000-39999,35,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,1,40-49
+44,16,Male,Bachelor,Very dissatisfied,Not very satisfied,"40,000 to 59,999",$40000-49999,21,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,2,40-49
+43,16,Female,Bachelor,Very satisfied,Very satisfied,"40,000 to 59,999",$40000-49999,45,Working fulltime,SECOND,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,3,40-49
+55,12,Female,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$25000-29999,35,Working fulltime,MOST IMPT,Very important,Yes,yes,40,yes,35,4,50+
+31,18,Male,Graduate,Very satisfied,Very satisfied,"60,000 or more",$60000-74999,50,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,5,30-39
+29,18,Female,Graduate,Mod satisfied,Not very satisfied,"25,000 to 39,999",$30000-34999,35,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,6,18-29
+23,15,Female,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$3000-3999,60,Working fulltime,MOST IMPT,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,7,18-29
+61,12,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$8000-9999,40,Working fulltime,NAP,One of most important,Yes,yes,40,yes,40,8,50+
+36,14,Female,High school,A little dissatisfied,Not very satisfied,"24,999 or less",$12500-14999,37,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,9,30-39
+55,15,Male,High school,Mod satisfied,Not very satisfied,"60,000 or more",REFUSED,40,Working fulltime,NAP,One of most important,No,yes,#NULL!,no,#NULL!,10,50+
+55,16,Female,Bachelor,A little dissatisfied,Not very satisfied,"60,000 or more",$22500-24999,38,Working fulltime,THIRD,Very important,Yes,yes,40,yes,38,11,50+
+34,16,Male,Bachelor,Mod satisfied,Not very satisfied,"60,000 or more",$75000+,55,Working fulltime,NAP,Very important,No,yes,#NULL!,no,#NULL!,12,30-39
+32,16,Male,Bachelor,Mod satisfied,Not very satisfied,"25,000 to 39,999",$15000-17499,32,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,13,30-39
+49,16,Female,Bachelor,Mod satisfied,Not very satisfied,"25,000 to 39,999",$25000-29999,80,Working fulltime,NAP,One of most important,Yes,yes,80,yes,80,14,40-49
+45,16,Female,Bachelor,Mod satisfied,Not very satisfied,"60,000 or more",$60000-74999,50,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,15,40-49
+36,18,Female,Bachelor,Mod satisfied,Not very satisfied,"25,000 to 39,999",$10000-12499,40,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,16,30-39
+29,16,Male,Graduate,Mod satisfied,Not very satisfied,"40,000 to 59,999",$50000-59999,50,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,17,18-29
+30,14,Female,Junior college,Mod satisfied,Not very satisfied,"25,000 to 39,999",$30000-34999,40,Working fulltime,SECOND,Not too important,No,#NULL!,#NULL!,#NULL!,#NULL!,18,30-39
+40,16,Female,Bachelor,A little dissatisfied,Not very satisfied,"25,000 to 39,999",$30000-34999,60,Working fulltime,THIRD,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,19,40-49
+26,11,Female,Less than HS,Mod satisfied,Not very satisfied,"25,000 to 39,999",$15000-17499,35,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,20,18-29
+63,12,Female,High school,A little dissatisfied,Not very satisfied,"24,999 or less",$10000-12499,40,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,21,50+
+33,14,Female,High school,Very satisfied,Very satisfied,"60,000 or more",$35000-39999,40,Working fulltime,MOST IMPT,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,22,30-39
+34,12,Male,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$17500-19999,40,Working fulltime,MOST IMPT,Very important,Yes,yes,40,yes,40,23,30-39
+61,16,Female,Bachelor,Very satisfied,Very satisfied,"25,000 to 39,999",$20000-22499,89,Working fulltime,SECOND,One of most important,No,no,#NULL!,yes,#NULL!,24,50+
+45,13,Female,High school,Very satisfied,Very satisfied,"60,000 or more",$60000-74999,40,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,25,40-49
+31,14,Male,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$40000-49999,60,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,26,30-39
+28,18,Male,Graduate,Mod satisfied,Not very satisfied,"25,000 to 39,999",$35000-39999,40,Working fulltime,MOST IMPT,One of most important,No,yes,#NULL!,no,#NULL!,27,18-29
+34,18,Female,Graduate,Mod satisfied,Not very satisfied,"40,000 to 59,999",$40000-49999,40,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,28,30-39
+45,13,Female,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$40000-49999,20,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,29,40-49
+35,16,Female,Bachelor,Very satisfied,Very satisfied,"40,000 to 59,999",$50000-59999,40,Working fulltime,NAP,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,30,30-39
+48,16,Male,Bachelor,Very satisfied,Very satisfied,"40,000 to 59,999",$50000-59999,20,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,31,40-49
+39,19,Male,Graduate,Mod satisfied,Not very satisfied,"40,000 to 59,999",$30000-34999,40,Working fulltime,FOURTH,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,32,30-39
+27,15,Female,High school,A little dissatisfied,Not very satisfied,"24,999 or less",$4000-4999,62,Working fulltime,MOST IMPT,Very important,Yes,yes,65,yes,62,33,18-29
+36,12,Male,High school,Mod satisfied,Not very satisfied,"24,999 or less",$6000-6999,20,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,34,30-39
+42,12,Female,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$30000-34999,50,Working fulltime,SECOND,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,35,40-49
+31,16,Female,Bachelor,Mod satisfied,Not very satisfied,"25,000 to 39,999",$15000-17499,40,Working fulltime,SECOND,Very important,No,no,#NULL!,yes,#NULL!,36,30-39
+44,16,Female,Bachelor,Mod satisfied,Not very satisfied,"40,000 to 59,999",$20000-22499,40,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,37,40-49
+39,12,Male,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$20000-22499,40,Working fulltime,SECOND,One of most important,Yes,yes,40,yes,40,38,30-39
+39,15,Female,High school,Very satisfied,Very satisfied,"60,000 or more",$35000-39999,50,Working fulltime,NAP,One of most important,Yes,yes,50,yes,50,39,30-39
+45,14,Male,High school,Mod satisfied,Not very satisfied,"60,000 or more",$35000-39999,22,Working fulltime,SECOND,One of most important,Yes,yes,22,yes,45,40,40-49
+46,20,Male,Graduate,Mod satisfied,Not very satisfied,"60,000 or more",$75000+,50,Working fulltime,FOURTH,One of most important,Yes,yes,50,yes,40,41,40-49
+23,16,Female,Bachelor,Mod satisfied,Not very satisfied,"60,000 or more",$25000-29999,60,Working fulltime,THIRD,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,42,18-29
+27,13,Male,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$35000-39999,55,Working fulltime,THIRD,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,43,18-29
+23,16,Female,Bachelor,A little dissatisfied,Not very satisfied,"25,000 to 39,999",$4000-4999,35,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,44,18-29
+31,16,Male,Bachelor,Very satisfied,Very satisfied,"25,000 to 39,999",$22500-24999,56,Working fulltime,THIRD,One of most important,No,yes,56,no,24,45,30-39
+29,14,Female,Junior college,Mod satisfied,Not very satisfied,"24,999 or less",$17500-19999,40,Working fulltime,NAP,Somewhat important,No,no,#NULL!,yes,#NULL!,46,18-29
+35,16,Male,Bachelor,Very satisfied,Very satisfied,"60,000 or more",$30000-34999,50,Working fulltime,NAP,Somewhat important,Yes,yes,50,yes,50,47,30-39
+36,14,Male,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$40000-49999,54,Working fulltime,SECOND,Very important,Yes,yes,54,yes,32,48,30-39
+41,12,Male,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$35000-39999,32,Working fulltime,NAP,Somewhat important,No,yes,#NULL!,no,#NULL!,49,40-49
+62,18,Female,Bachelor,Mod satisfied,Not very satisfied,"24,999 or less",$17500-19999,55,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,50,50+
+44,12,Male,High school,Mod satisfied,Not very satisfied,"60,000 or more",$75000+,55,Working fulltime,NAP,One of most important,No,yes,55,no,20,51,40-49
+49,15,Male,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$40000-49999,50,Working fulltime,SECOND,Very important,No,yes,50,no,17,52,40-49
+62,12,Female,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$25000-29999,38,Working fulltime,SECOND,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,53,50+
+45,18,Male,Graduate,Mod satisfied,Not very satisfied,"60,000 or more",$75000+,50,Working fulltime,NAP,Very important,No,yes,#NULL!,no,#NULL!,54,40-49
+31,16,Male,Bachelor,Mod satisfied,Not very satisfied,"25,000 to 39,999",$35000-39999,45,Working fulltime,THIRD,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,55,30-39
+45,15,Male,High school,Mod satisfied,Not very satisfied,"60,000 or more",$60000-74999,50,Working fulltime,FOURTH,Somewhat important,Yes,yes,50,yes,40,56,40-49
+27,16,Male,Bachelor,Very satisfied,Very satisfied,"25,000 to 39,999",$25000-29999,80,Working fulltime,THIRD,One of most important,Yes,yes,80,yes,40,57,18-29
+28,13,Male,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$30000-34999,56,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,58,18-29
+43,12,Male,High school,Mod satisfied,Not very satisfied,"60,000 or more",$40000-49999,50,Working fulltime,SECOND,Somewhat important,Yes,yes,50,yes,40,59,40-49
+28,16,Male,Bachelor,Mod satisfied,Not very satisfied,"40,000 to 59,999",$25000-29999,55,Working fulltime,MOST IMPT,Somewhat important,No,yes,55,no,13,60,18-29
+24,12,Female,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$12500-14999,55,Working fulltime,FOURTH,Very important,Yes,yes,43,yes,55,61,18-29
+51,19,Male,Graduate,Very satisfied,Very satisfied,"60,000 or more",$75000+,40,Working fulltime,THIRD,Very important,Yes,yes,40,yes,40,62,50+
+57,17,Male,Bachelor,Mod satisfied,Not very satisfied,"60,000 or more",$75000+,60,Working fulltime,MOST IMPT,Very important,No,yes,60,no,30,63,50+
+72,16,Male,Bachelor,A little dissatisfied,Not very satisfied,"60,000 or more",$75000+,40,Working fulltime,NAP,Very important,No,yes,#NULL!,no,#NULL!,64,50+
+32,18,Male,Graduate,Mod satisfied,Not very satisfied,"60,000 or more",$60000-74999,50,Working fulltime,SECOND,Very important,No,yes,50,no,10,65,30-39
+50,15,Male,Junior college,Very satisfied,Very satisfied,"25,000 to 39,999",$30000-34999,40,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,66,50+
+43,6,Male,Less than HS,A little dissatisfied,Not very satisfied,"40,000 to 59,999",$22500-24999,50,Working fulltime,MOST IMPT,Very important,Yes,yes,50,yes,50,67,40-49
+NA,18,Male,Bachelor,Very satisfied,Very satisfied,"60,000 or more",REFUSED,40,Working fulltime,THIRD,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,68,#NULL!
+60,13,Male,High school,Very satisfied,Very satisfied,"60,000 or more",$75000+,50,Working fulltime,THIRD,Very important,Yes,yes,50,yes,40,69,50+
+46,16,Female,Bachelor,Very satisfied,Very satisfied,"60,000 or more",REFUSED,80,Working fulltime,THIRD,One of most important,Yes,yes,40,yes,80,70,40-49
+27,15,Male,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$25000-29999,55,Working fulltime,MOST IMPT,Very important,Yes,yes,55,yes,40,71,18-29
+45,12,Female,High school,A little dissatisfied,Not very satisfied,"40,000 to 59,999",$30000-34999,40,Working fulltime,MOST IMPT,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,72,40-49
+51,16,Male,Bachelor,Mod satisfied,Not very satisfied,"60,000 or more",$60000-74999,65,Working fulltime,SECOND,Somewhat important,Yes,yes,65,yes,55,73,50+
+38,16,Male,Bachelor,Very satisfied,Very satisfied,"60,000 or more",$50000-59999,40,Working fulltime,THIRD,Very important,Yes,yes,40,yes,70,74,30-39
+44,20,Male,Graduate,Very satisfied,Very satisfied,"60,000 or more",$35000-39999,55,Working fulltime,SECOND,One of most important,Yes,yes,55,yes,40,75,40-49
+40,18,Male,Graduate,Mod satisfied,Not very satisfied,"60,000 or more",$50000-59999,55,Working fulltime,SECOND,Very important,No,yes,55,no,24,76,40-49
+51,12,Male,High school,Very satisfied,Very satisfied,"60,000 or more",$30000-34999,60,Working fulltime,THIRD,Very important,Yes,yes,60,yes,60,77,50+
+59,20,Male,Graduate,Very satisfied,Very satisfied,"60,000 or more",$75000+,67,Working fulltime,SECOND,Very important,Yes,yes,67,yes,40,78,50+
+36,12,Male,High school,Very satisfied,Very satisfied,"60,000 or more",$50000-59999,75,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,79,30-39
+35,14,Male,High school,Mod satisfied,Not very satisfied,"60,000 or more",$35000-39999,40,Working fulltime,MOST IMPT,Very important,Yes,yes,40,yes,40,80,30-39
+30,14,Female,High school,Very satisfied,Very satisfied,"60,000 or more",$22500-24999,50,Working fulltime,NAP,Very important,Yes,yes,65,yes,50,81,30-39
+32,12,Male,High school,Very satisfied,Very satisfied,"60,000 or more",NAP,60,Working fulltime,NAP,One of most important,No,yes,#NULL!,no,#NULL!,82,30-39
+33,16,Female,Bachelor,Mod satisfied,Not very satisfied,"40,000 to 59,999",$40000-49999,45,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,83,30-39
+49,20,Female,Graduate,Mod satisfied,Not very satisfied,"60,000 or more",REFUSED,50,Working fulltime,SECOND,Very important,Yes,yes,40,yes,50,84,40-49
+56,18,Male,Graduate,A little dissatisfied,Not very satisfied,"60,000 or more",$50000-59999,40,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,85,50+
+55,20,Male,Graduate,Very satisfied,Very satisfied,"60,000 or more",$75000+,40,Working fulltime,THIRD,Not at all important,No,yes,#NULL!,no,#NULL!,86,50+
+61,20,Female,Graduate,A little dissatisfied,Not very satisfied,"40,000 to 59,999",$40000-49999,40,Working fulltime,NAP,Somewhat important,Yes,yes,35,yes,40,87,50+
+34,16,Male,Bachelor,Very satisfied,Very satisfied,"24,999 or less",$8000-9999,51,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,88,30-39
+48,16,Male,Graduate,A little dissatisfied,Not very satisfied,"60,000 or more",$75000+,65,Working fulltime,FOURTH,One of most important,No,yes,65,no,8,89,40-49
+43,16,Female,Bachelor,Very satisfied,Very satisfied,"60,000 or more",$3000-3999,42,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,90,40-49
+38,12,Male,High school,Very satisfied,Very satisfied,"60,000 or more",$60000-74999,40,Working fulltime,THIRD,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,91,30-39
+31,12,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$22500-24999,40,Working fulltime,SECOND,Very important,No,yes,#NULL!,no,#NULL!,92,30-39
+40,16,Male,Bachelor,Mod satisfied,Not very satisfied,"25,000 to 39,999",$30000-34999,50,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,93,40-49
+27,17,Male,Bachelor,A little dissatisfied,Not very satisfied,"25,000 to 39,999",$30000-34999,60,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,94,18-29
+52,16,Male,Bachelor,Mod satisfied,Not very satisfied,"25,000 to 39,999",$25000-29999,40,Working fulltime,THIRD,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,95,50+
+32,12,Female,High school,Mod satisfied,Not very satisfied,"60,000 or more",$35000-39999,40,Working fulltime,THIRD,Very important,Yes,yes,70,yes,40,96,30-39
+55,13,Female,High school,Very satisfied,Very satisfied,"60,000 or more",$22500-24999,40,Working fulltime,NAP,Somewhat important,Yes,yes,46,yes,40,97,50+
+53,16,Female,Bachelor,Mod satisfied,Not very satisfied,"25,000 to 39,999",$10000-12499,40,Working fulltime,FOURTH,One of most important,Yes,yes,60,yes,40,98,50+
+30,16,Male,Junior college,Very satisfied,Very satisfied,"60,000 or more",$40000-49999,40,Working fulltime,SECOND,Very important,Yes,yes,40,yes,40,99,30-39
+34,12,Male,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$35000-39999,40,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,100,30-39
+43,16,Female,Bachelor,Very satisfied,Very satisfied,"40,000 to 59,999",$20000-22499,38,Working fulltime,SECOND,Very important,Yes,yes,40,yes,38,101,40-49
+37,19,Male,Graduate,A little dissatisfied,Not very satisfied,"24,999 or less",$10000-12499,46,Working fulltime,NAP,One of most important,Yes,yes,46,yes,42,102,30-39
+42,12,Female,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$15000-17499,40,Working fulltime,NAP,Very important,Yes,yes,40,yes,40,103,40-49
+66,20,Male,Graduate,Very satisfied,Very satisfied,"60,000 or more",$60000-74999,50,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,104,50+
+57,14,Female,Junior college,Very satisfied,Very satisfied,"40,000 to 59,999",$40000-49999,40,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,105,50+
+57,18,Female,Graduate,Very satisfied,Very satisfied,"60,000 or more",$12500-14999,40,Working fulltime,THIRD,One of most important,Yes,yes,40,yes,40,106,50+
+36,17,Male,Bachelor,Very satisfied,Very satisfied,"25,000 to 39,999",$35000-39999,40,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,107,30-39
+39,17,Male,Bachelor,Very satisfied,Very satisfied,"60,000 or more",$75000+,60,Working fulltime,MOST IMPT,Very important,No,yes,#NULL!,no,#NULL!,108,30-39
+49,14,Female,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$30000-34999,40,Working fulltime,FIFTH,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,109,40-49
+51,13,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$15000-17499,40,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,110,50+
+53,18,Male,Graduate,Very satisfied,Very satisfied,"60,000 or more",$35000-39999,50,Working fulltime,THIRD,One of most important,Yes,yes,50,yes,50,111,50+
+41,13,Female,High school,Mod satisfied,Not very satisfied,"60,000 or more",$4000-4999,40,Working fulltime,MOST IMPT,Somewhat important,Yes,yes,60,yes,40,112,40-49
+38,11,Male,Less than HS,Very dissatisfied,Not very satisfied,"25,000 to 39,999",$15000-17499,32,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,113,30-39
+59,12,Female,High school,Mod satisfied,Not very satisfied,"60,000 or more",$8000-9999,40,Working fulltime,NAP,One of most important,No,no,#NULL!,yes,#NULL!,114,50+
+33,14,Female,High school,Very dissatisfied,Not very satisfied,"60,000 or more",$25000-29999,40,Working fulltime,THIRD,Very important,Yes,yes,50,yes,40,115,30-39
+50,12,Male,High school,Very satisfied,Very satisfied,"60,000 or more",$50000-59999,40,Working fulltime,FOURTH,One of most important,Yes,yes,40,yes,40,116,50+
+51,14,Female,High school,Mod satisfied,Not very satisfied,"60,000 or more",$40000-49999,40,Working fulltime,SECOND,Somewhat important,Yes,yes,40,yes,40,117,50+
+60,12,Female,High school,Mod satisfied,Not very satisfied,"60,000 or more",$25000-29999,40,Working fulltime,MOST IMPT,Very important,Yes,yes,45,yes,40,118,50+
+41,17,Female,Bachelor,Mod satisfied,Not very satisfied,"60,000 or more",$60000-74999,52,Working fulltime,NAP,One of most important,Yes,yes,39,yes,52,119,40-49
+57,12,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$25000-29999,40,Working fulltime,SECOND,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,120,50+
+50,12,Female,High school,Very satisfied,Very satisfied,"60,000 or more",REFUSED,35,Working fulltime,NAP,Not too important,Yes,yes,50,yes,35,121,50+
+50,16,Female,Bachelor,Mod satisfied,Not very satisfied,"60,000 or more",REFUSED,15,Working fulltime,NAP,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,122,50+
+34,16,Male,Bachelor,A little dissatisfied,Not very satisfied,"60,000 or more",REFUSED,55,Working fulltime,THIRD,One of most important,No,yes,#NULL!,no,#NULL!,123,30-39
+47,12,Female,High school,Mod satisfied,Not very satisfied,"60,000 or more",$25000-29999,55,Working fulltime,FOURTH,Very important,Yes,yes,50,yes,55,124,40-49
+35,19,Male,Graduate,Very satisfied,Very satisfied,"25,000 to 39,999",$22500-24999,60,Working fulltime,FIFTH,Very important,No,yes,60,no,20,125,30-39
+37,14,Male,Junior college,Very satisfied,Very satisfied,"25,000 to 39,999",$30000-34999,48,Working fulltime,THIRD,Somewhat important,No,yes,48,no,16,126,30-39
+41,17,Female,Bachelor,Very satisfied,Very satisfied,"25,000 to 39,999",$35000-39999,NA,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,127,40-49
+27,14,Female,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$30000-34999,60,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,128,18-29
+27,16,Female,Bachelor,Mod satisfied,Not very satisfied,"25,000 to 39,999",$25000-29999,40,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,129,18-29
+50,14,Male,Junior college,Mod satisfied,Not very satisfied,"60,000 or more",$50000-59999,65,Working fulltime,NAP,One of most important,No,yes,#NULL!,no,#NULL!,130,50+
+28,16,Male,Bachelor,Very dissatisfied,Not very satisfied,"40,000 to 59,999",$30000-34999,40,Working fulltime,THIRD,Very important,Yes,yes,40,yes,40,131,18-29
+31,16,Male,Bachelor,Very dissatisfied,Not very satisfied,"40,000 to 59,999",$20000-22499,40,Working fulltime,THIRD,One of most important,Yes,yes,40,yes,40,132,30-39
+51,12,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$25000-29999,46,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,133,50+
+41,11,Male,Less than HS,Mod satisfied,Not very satisfied,"24,999 or less",$12500-14999,40,Working fulltime,MOST IMPT,One of most important,Yes,yes,40,yes,36,134,40-49
+26,15,Male,High school,Mod satisfied,Not very satisfied,"24,999 or less",$15000-17499,40,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,135,18-29
+43,16,Male,Bachelor,Mod satisfied,Not very satisfied,"60,000 or more",$75000+,40,Working fulltime,THIRD,One of most important,Yes,yes,40,yes,40,136,40-49
+44,16,Male,Bachelor,Very satisfied,Very satisfied,"60,000 or more",$60000-74999,40,Working fulltime,FOURTH,Very important,No,yes,#NULL!,no,#NULL!,137,40-49
+39,15,Male,High school,Very satisfied,Very satisfied,"60,000 or more",$40000-49999,50,Working fulltime,SECOND,Somewhat important,Yes,yes,50,yes,45,138,30-39
+54,16,Female,Bachelor,Very satisfied,Very satisfied,"40,000 to 59,999",$35000-39999,40,Working fulltime,MOST IMPT,Very important,Yes,yes,20,yes,40,139,50+
+47,14,Female,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$40000-49999,40,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,140,40-49
+47,18,Female,Graduate,Very satisfied,Very satisfied,"60,000 or more",REFUSED,40,Working fulltime,FIFTH,Very important,Yes,yes,40,yes,40,141,40-49
+37,12,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$22500-24999,40,Working fulltime,SECOND,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,142,30-39
+52,9,Female,Less than HS,A little dissatisfied,Not very satisfied,"40,000 to 59,999",$20000-22499,59,Working fulltime,NAP,Not too important,No,#NULL!,#NULL!,#NULL!,#NULL!,143,50+
+54,12,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$20000-22499,40,Working fulltime,FOURTH,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,144,50+
+24,12,Female,High school,Mod satisfied,Not very satisfied,"60,000 or more",$25000-29999,44,Working fulltime,SECOND,Very important,Yes,yes,89,yes,44,145,18-29
+43,13,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$25000-29999,45,Working fulltime,FOURTH,Very important,No,yes,45,no,25,146,40-49
+41,15,Male,High school,Mod satisfied,Not very satisfied,"60,000 or more",$35000-39999,40,Working fulltime,THIRD,One of most important,Yes,yes,40,yes,48,147,40-49
+41,12,Female,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$20000-22499,40,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,148,40-49
+46,12,Female,High school,Very dissatisfied,Not very satisfied,"25,000 to 39,999",$10000-12499,40,Working fulltime,MOST IMPT,Very important,Yes,yes,35,yes,40,149,40-49
+33,16,Male,Bachelor,Very satisfied,Very satisfied,"25,000 to 39,999",$25000-29999,45,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,150,30-39
+33,14,Female,Junior college,Very satisfied,Very satisfied,"24,999 or less",$12500-14999,80,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,151,30-39
+45,12,Female,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$10000-12499,40,Working fulltime,NAP,Very important,Yes,yes,50,yes,40,152,40-49
+24,16,Male,Bachelor,Mod satisfied,Not very satisfied,"24,999 or less",$12500-14999,40,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,153,18-29
+45,12,Male,High school,A little dissatisfied,Not very satisfied,"40,000 to 59,999",$25000-29999,44,Working fulltime,SECOND,Very important,Yes,yes,44,yes,40,154,40-49
+46,12,Female,High school,A little dissatisfied,Not very satisfied,"40,000 to 59,999",$40000-49999,50,Working fulltime,SECOND,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,155,40-49
+41,20,Female,Graduate,A little dissatisfied,Not very satisfied,"60,000 or more",$35000-39999,60,Working fulltime,NAP,Very important,Yes,yes,60,yes,60,156,40-49
+37,18,Male,Graduate,Mod satisfied,Not very satisfied,"60,000 or more",$60000-74999,56,Working fulltime,MOST IMPT,Very important,Yes,yes,56,yes,60,157,30-39
+36,14,Female,Junior college,Very satisfied,Very satisfied,"25,000 to 39,999",$10000-12499,41,Working fulltime,THIRD,Very important,Yes,yes,89,yes,41,158,30-39
+39,16,Female,Bachelor,Mod satisfied,Not very satisfied,"40,000 to 59,999",$40000-49999,40,Working fulltime,THIRD,Very important,Yes,yes,40,yes,40,159,30-39
+52,17,Male,Bachelor,Mod satisfied,Not very satisfied,"40,000 to 59,999",NAP,46,Working fulltime,NAP,Very important,Yes,yes,46,yes,32,160,50+
+44,14,Male,Junior college,Mod satisfied,Not very satisfied,"40,000 to 59,999",$30000-34999,40,Working fulltime,THIRD,Very important,Yes,yes,40,yes,40,161,40-49
+35,19,Female,Graduate,Very satisfied,Very satisfied,"60,000 or more",$60000-74999,45,Working fulltime,SECOND,Very important,Yes,yes,18,yes,45,162,30-39
+26,13,Male,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$25000-29999,52,Working fulltime,SECOND,Somewhat important,No,yes,#NULL!,no,#NULL!,163,18-29
+48,12,Female,High school,Very satisfied,Very satisfied,"60,000 or more",$15000-17499,42,Working fulltime,SECOND,One of most important,Yes,yes,47,yes,42,164,40-49
+26,12,Male,High school,Very satisfied,Very satisfied,"24,999 or less",$15000-17499,30,Working fulltime,NAP,Very important,Yes,yes,30,yes,40,165,18-29
+36,12,Male,High school,A little dissatisfied,Not very satisfied,"40,000 to 59,999",$40000-49999,44,Working fulltime,THIRD,Not too important,No,#NULL!,#NULL!,#NULL!,#NULL!,166,30-39
+41,14,Male,High school,Mod satisfied,Not very satisfied,"60,000 or more",REFUSED,53,Working fulltime,SECOND,Very important,Yes,yes,53,yes,45,167,40-49
+43,12,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$30000-34999,46,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,168,40-49
+41,16,Female,Bachelor,Mod satisfied,Not very satisfied,"25,000 to 39,999",$25000-29999,40,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,169,40-49
+47,18,Male,Graduate,Very dissatisfied,Not very satisfied,"60,000 or more",$60000-74999,65,Working fulltime,NAP,Somewhat important,No,yes,#NULL!,no,#NULL!,170,40-49
+49,13,Male,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$35000-39999,40,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,171,40-49
+58,12,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$35000-39999,55,Working fulltime,NAP,Very important,Yes,yes,55,yes,41,172,50+
+19,12,Female,High school,Very satisfied,Very satisfied,"60,000 or more",$7000-7999,40,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,173,18-29
+35,12,Male,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$17500-19999,49,Working fulltime,MOST IMPT,Very important,Yes,yes,49,yes,40,174,30-39
+42,15,Male,Junior college,A little dissatisfied,Not very satisfied,"40,000 to 59,999",$30000-34999,40,Working fulltime,MOST IMPT,Somewhat important,Yes,yes,40,yes,40,175,40-49
+54,12,Female,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$30000-34999,40,Working fulltime,FOURTH,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,176,50+
+33,16,Female,Bachelor,Very satisfied,Very satisfied,"40,000 to 59,999",$25000-29999,40,Working fulltime,NAP,Very important,Yes,yes,60,yes,40,177,30-39
+26,12,Male,High school,Mod satisfied,Not very satisfied,"24,999 or less",$15000-17499,65,Working fulltime,SECOND,Very important,No,yes,65,no,20,178,18-29
+42,12,Male,High school,Mod satisfied,Not very satisfied,"60,000 or more",DK,42,Working fulltime,NAP,Very important,No,yes,#NULL!,no,#NULL!,179,40-49
+34,17,Male,Bachelor,Very satisfied,Very satisfied,"25,000 to 39,999",$25000-29999,50,Working fulltime,NAP,Very important,No,yes,50,no,7,180,30-39
+43,11,Male,Less than HS,Very satisfied,Very satisfied,"60,000 or more",$50000-59999,42,Working fulltime,SECOND,Very important,Yes,yes,42,yes,40,181,40-49
+65,14,Male,Junior college,Mod satisfied,Not very satisfied,"60,000 or more",$40000-49999,40,Working fulltime,FOURTH,Very important,Yes,yes,40,yes,50,182,50+
+22,15,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$4000-4999,30,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,183,18-29
+41,13,Male,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",NAP,40,Working fulltime,SECOND,Very important,Yes,yes,40,yes,40,184,40-49
+33,12,Male,High school,Mod satisfied,Not very satisfied,"60,000 or more",$30000-34999,50,Working fulltime,NAP,Very important,No,yes,50,no,10,185,30-39
+40,12,Male,Less than HS,Mod satisfied,Not very satisfied,"25,000 to 39,999",$25000-29999,55,Working fulltime,NAP,Very important,No,yes,#NULL!,no,#NULL!,186,40-49
+25,16,Male,Bachelor,Mod satisfied,Not very satisfied,"25,000 to 39,999",$8000-9999,48,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,187,18-29
+51,12,Male,High school,Very satisfied,Very satisfied,"24,999 or less",$15000-17499,55,Working fulltime,THIRD,One of most important,No,yes,55,no,8,188,50+
+40,12,Female,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$40000-49999,40,Working fulltime,SECOND,One of most important,No,no,#NULL!,yes,#NULL!,189,40-49
+43,10,Male,Less than HS,Very satisfied,Very satisfied,"60,000 or more",$75000+,56,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,190,40-49
+46,12,Male,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$40000-49999,50,Working fulltime,SECOND,One of most important,No,yes,#NULL!,no,#NULL!,191,40-49
+37,12,Male,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$50000-59999,60,Working fulltime,MOST IMPT,One of most important,No,yes,60,no,30,192,30-39
+52,6,Male,Less than HS,Very satisfied,Very satisfied,"25,000 to 39,999",$30000-34999,45,Working fulltime,NAP,Very important,No,yes,#NULL!,no,#NULL!,193,50+
+25,12,Male,High school,Very satisfied,Very satisfied,"24,999 or less",$20000-22499,48,Working fulltime,FOURTH,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,194,18-29
+46,12,Male,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$40000-49999,40,Working fulltime,NAP,Very important,No,yes,40,no,20,195,40-49
+42,12,Male,High school,Mod satisfied,Not very satisfied,"24,999 or less",NAP,38,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,196,40-49
+38,11,Male,High school,Very satisfied,Very satisfied,"24,999 or less",$20000-22499,48,Working fulltime,FIFTH,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,197,30-39
+23,14,Male,High school,A little dissatisfied,Not very satisfied,"24,999 or less",$15000-17499,40,Working fulltime,NAP,One of most important,No,yes,#NULL!,no,#NULL!,198,18-29
+59,16,Female,Bachelor,Very satisfied,Very satisfied,"40,000 to 59,999",$30000-34999,40,Working fulltime,NAP,One of most important,Yes,yes,40,yes,40,199,50+
+47,13,Male,High school,Mod satisfied,Not very satisfied,"24,999 or less",$17500-19999,56,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,200,40-49
+35,11,Male,Less than HS,Very dissatisfied,Not very satisfied,"25,000 to 39,999",$6000-6999,35,Working fulltime,MOST IMPT,Very important,Yes,yes,35,yes,60,201,30-39
+44,12,Female,High school,Very satisfied,Very satisfied,"24,999 or less",$22500-24999,40,Working fulltime,SECOND,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,202,40-49
+38,14,Female,Junior college,Very satisfied,Very satisfied,"25,000 to 39,999",$20000-22499,40,Working fulltime,THIRD,Very important,Yes,yes,40,yes,40,203,30-39
+36,18,Female,Graduate,Very satisfied,Very satisfied,"60,000 or more",$22500-24999,40,Working fulltime,NAP,Very important,Yes,yes,42,yes,40,204,30-39
+43,13,Male,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$25000-29999,52,Working fulltime,MOST IMPT,Very important,No,yes,52,no,24,205,40-49
+25,12,Male,Less than HS,A little dissatisfied,Not very satisfied,"24,999 or less",NAP,48,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,206,18-29
+25,14,Male,High school,A little dissatisfied,Not very satisfied,"25,000 to 39,999",$15000-17499,50,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,207,18-29
+73,14,Male,High school,Very satisfied,Very satisfied,"60,000 or more",NAP,50,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,208,50+
+36,16,Male,Bachelor,Very satisfied,Very satisfied,"60,000 or more",REFUSED,50,Working fulltime,SECOND,Very important,Yes,yes,50,yes,45,209,30-39
+35,13,Male,High school,Very satisfied,Very satisfied,"60,000 or more",$75000+,65,Working fulltime,THIRD,One of most important,Yes,yes,65,yes,40,210,30-39
+51,13,Female,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$35000-39999,60,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,211,50+
+58,12,Female,High school,Very satisfied,Very satisfied,"24,999 or less",$10000-12499,40,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,212,50+
+40,12,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$12500-14999,44,Working fulltime,THIRD,Very important,Yes,yes,40,yes,44,213,40-49
+52,12,Male,High school,Very satisfied,Very satisfied,"60,000 or more",REFUSED,40,Working fulltime,FOURTH,One of most important,Yes,yes,40,yes,40,214,50+
+53,13,Female,High school,Very satisfied,Very satisfied,"60,000 or more",$10000-12499,35,Working fulltime,MOST IMPT,Very important,Yes,yes,60,yes,35,215,50+
+38,12,Female,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",NAP,50,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,216,30-39
+38,14,Female,Junior college,Mod satisfied,Not very satisfied,"40,000 to 59,999",$40000-49999,40,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,217,30-39
+58,12,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$15000-17499,40,Working fulltime,NAP,One of most important,Yes,yes,40,yes,40,218,50+
+45,13,Female,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$15000-17499,45,Working fulltime,SECOND,Somewhat important,Yes,yes,70,yes,45,219,40-49
+20,12,Male,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$4000-4999,42,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,220,18-29
+39,14,Male,Junior college,Very satisfied,Very satisfied,"24,999 or less",$8000-9999,40,Working fulltime,SECOND,Very important,No,yes,#NULL!,no,#NULL!,221,30-39
+51,0,Female,Less than HS,Very satisfied,Very satisfied,"24,999 or less",$3000-3999,20,Working fulltime,MOST IMPT,Very important,Yes,yes,40,yes,20,222,50+
+78,18,Female,Bachelor,Very satisfied,Very satisfied,"25,000 to 39,999",$30000-34999,40,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,223,50+
+25,12,Female,High school,A little dissatisfied,Not very satisfied,"25,000 to 39,999",$15000-17499,40,Working fulltime,NA,Very important,Yes,yes,40,yes,40,224,18-29
+36,19,Male,Graduate,Mod satisfied,Not very satisfied,"25,000 to 39,999",$35000-39999,42,Working fulltime,MOST IMPT,Very important,Yes,yes,42,yes,40,225,30-39
+23,11,Female,Less than HS,Very satisfied,Very satisfied,"60,000 or more",DK,36,Working fulltime,SECOND,Very important,No,no,#NULL!,yes,#NULL!,226,18-29
+40,12,Female,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$7000-7999,35,Working fulltime,SECOND,Very important,Yes,yes,50,yes,35,227,40-49
+31,12,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$17500-19999,47,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,228,30-39
+51,16,Female,Bachelor,Very satisfied,Very satisfied,"25,000 to 39,999",$8000-9999,40,Working fulltime,NAP,Somewhat important,Yes,yes,60,yes,40,229,50+
+37,17,Male,Bachelor,Mod satisfied,Not very satisfied,"24,999 or less",$22500-24999,40,Working fulltime,SECOND,One of most important,No,yes,#NULL!,no,#NULL!,230,30-39
+47,16,Male,Bachelor,Very dissatisfied,Not very satisfied,"40,000 to 59,999",$40000-49999,60,Working fulltime,NAP,Somewhat important,Yes,yes,60,yes,40,231,40-49
+64,12,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$25000-29999,40,Working fulltime,FOURTH,Very important,No,yes,#NULL!,no,#NULL!,232,50+
+27,14,Female,Junior college,Mod satisfied,Not very satisfied,"25,000 to 39,999",$15000-17499,40,Working fulltime,THIRD,One of most important,Yes,yes,55,yes,40,233,18-29
+32,20,Female,Bachelor,Mod satisfied,Not very satisfied,"24,999 or less",$15000-17499,60,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,234,30-39
+40,20,Male,Graduate,Very satisfied,Very satisfied,"40,000 to 59,999",$50000-59999,48,Working fulltime,NAP,One of most important,No,yes,48,no,25,235,40-49
+45,17,Female,Bachelor,Very satisfied,Very satisfied,"40,000 to 59,999",$40000-49999,55,Working fulltime,SECOND,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,236,40-49
+26,12,Female,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$25000-29999,40,Working fulltime,NAP,Very important,No,no,20,yes,40,237,18-29
+46,20,Female,Graduate,Very satisfied,Very satisfied,"25,000 to 39,999",$30000-34999,60,Working fulltime,THIRD,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,238,40-49
+32,18,Female,Graduate,Mod satisfied,Not very satisfied,"24,999 or less",$17500-19999,50,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,239,30-39
+36,16,Male,Bachelor,Very satisfied,Very satisfied,"25,000 to 39,999",$30000-34999,36,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,240,30-39
+30,14,Female,High school,Very dissatisfied,Not very satisfied,"24,999 or less",$15000-17499,40,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,241,30-39
+51,12,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$10000-12499,35,Working fulltime,FIFTH,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,242,50+
+40,19,Male,Graduate,Mod satisfied,Not very satisfied,"60,000 or more",$75000+,45,Working fulltime,SECOND,Very important,Yes,yes,45,yes,45,243,40-49
+51,16,Male,Bachelor,Very dissatisfied,Not very satisfied,"60,000 or more",$75000+,60,Working fulltime,NAP,Very important,No,yes,60,no,16,244,50+
+54,16,Female,Bachelor,Very satisfied,Very satisfied,"40,000 to 59,999",$12500-14999,38,Working fulltime,SECOND,Very important,No,no,#NULL!,yes,#NULL!,245,50+
+27,16,Male,Bachelor,Mod satisfied,Not very satisfied,"24,999 or less",$17500-19999,40,Working fulltime,MOST IMPT,Very important,Yes,yes,40,yes,40,246,18-29
+63,17,Male,Bachelor,Mod satisfied,Not very satisfied,"60,000 or more",$75000+,45,Working fulltime,SECOND,Very important,No,yes,#NULL!,no,#NULL!,247,50+
+43,18,Female,Graduate,Very satisfied,Very satisfied,"25,000 to 39,999",$30000-34999,40,Working fulltime,THIRD,One of most important,No,no,#NULL!,yes,#NULL!,248,40-49
+44,14,Female,Junior college,A little dissatisfied,Not very satisfied,"40,000 to 59,999",$35000-39999,45,Working fulltime,THIRD,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,249,40-49
+32,14,Female,High school,Very satisfied,Very satisfied,"60,000 or more",REFUSED,60,Working fulltime,THIRD,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,250,30-39
+50,12,Male,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$30000-34999,50,Working fulltime,FIFTH,Very important,No,yes,50,no,35,251,50+
+31,14,Female,High school,A little dissatisfied,Not very satisfied,"60,000 or more",$17500-19999,40,Working fulltime,NAP,One of most important,Yes,yes,42,yes,40,252,30-39
+29,14,Male,Junior college,Very satisfied,Very satisfied,"40,000 to 59,999",$40000-49999,60,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,253,18-29
+30,11,Male,High school,Very satisfied,Very satisfied,"24,999 or less",$15000-17499,45,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,254,30-39
+34,15,Male,Junior college,Very dissatisfied,Not very satisfied,"40,000 to 59,999",$30000-34999,40,Working fulltime,NA,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,255,30-39
+63,12,Female,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$22500-24999,36,Working fulltime,MOST IMPT,Very important,No,no,20,yes,36,256,50+
+55,13,Female,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$10000-12499,40,Working fulltime,NAP,Very important,Yes,yes,76,yes,40,257,50+
+36,13,Male,High school,A little dissatisfied,Not very satisfied,"24,999 or less",$8000-9999,40,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,258,30-39
+39,12,Male,High school,A little dissatisfied,Not very satisfied,"25,000 to 39,999",$30000-34999,55,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,259,30-39
+28,19,Female,Bachelor,Mod satisfied,Not very satisfied,"24,999 or less",$5000-5999,39,Working fulltime,THIRD,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,260,18-29
+46,14,Female,High school,Mod satisfied,Not very satisfied,"60,000 or more",$30000-34999,45,Working fulltime,THIRD,Very important,Yes,yes,60,yes,45,261,40-49
+39,19,Female,Graduate,Very satisfied,Very satisfied,"40,000 to 59,999",$25000-29999,35,Working fulltime,SECOND,One of most important,Yes,yes,40,yes,35,262,30-39
+77,14,Female,High school,Very satisfied,Very satisfied,"60,000 or more",REFUSED,40,Working fulltime,NAP,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,263,50+
+49,17,Male,Bachelor,Mod satisfied,Not very satisfied,"60,000 or more",$35000-39999,36,Working fulltime,THIRD,Very important,Yes,yes,36,yes,60,264,40-49
+56,18,Female,Graduate,Mod satisfied,Not very satisfied,"60,000 or more",$50000-59999,40,Working fulltime,SECOND,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,265,50+
+28,12,Male,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$22500-24999,42,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,266,18-29
+24,12,Male,High school,Mod satisfied,Not very satisfied,"24,999 or less",$1000-2999,57,Working fulltime,THIRD,Very important,No,yes,#NULL!,no,#NULL!,267,18-29
+37,18,Female,Graduate,Very satisfied,Very satisfied,"60,000 or more",$50000-59999,50,Working fulltime,SECOND,Very important,Yes,yes,60,yes,50,268,30-39
+48,12,Female,High school,A little dissatisfied,Not very satisfied,"25,000 to 39,999",$17500-19999,40,Working fulltime,NAP,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,269,40-49
+49,15,Male,Junior college,Mod satisfied,Not very satisfied,"60,000 or more",$22500-24999,25,Working fulltime,NAP,Very important,No,yes,#NULL!,no,#NULL!,270,40-49
+36,9,Male,Less than HS,Mod satisfied,Not very satisfied,"25,000 to 39,999",$20000-22499,44,Working fulltime,FIFTH,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,271,30-39
+35,12,Male,High school,Mod satisfied,Not very satisfied,"24,999 or less",$1000-2999,40,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,272,30-39
+36,12,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$10000-12499,40,Working fulltime,FIFTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,273,30-39
+37,13,Female,High school,A little dissatisfied,Not very satisfied,"24,999 or less",$8000-9999,40,Working fulltime,THIRD,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,274,30-39
+55,14,Male,Junior college,Mod satisfied,Not very satisfied,"25,000 to 39,999",$30000-34999,40,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,275,50+
+39,16,Male,Bachelor,Mod satisfied,Not very satisfied,"40,000 to 59,999",$40000-49999,40,Working fulltime,SECOND,Very important,No,yes,40,no,6,276,30-39
+72,12,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$35000-39999,40,Working fulltime,FOURTH,Very important,No,yes,#NULL!,no,#NULL!,277,50+
+52,18,Female,Bachelor,A little dissatisfied,Not very satisfied,"40,000 to 59,999",$15000-17499,45,Working fulltime,NAP,Very important,Yes,yes,55,yes,45,278,50+
+38,13,Female,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$30000-34999,50,Working fulltime,NAP,Very important,No,no,42,yes,50,279,30-39
+52,14,Male,Junior college,Very satisfied,Very satisfied,"60,000 or more",$50000-59999,40,Working fulltime,NAP,One of most important,Yes,yes,40,yes,40,280,50+
+43,13,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$17500-19999,65,Working fulltime,NAP,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,281,40-49
+24,12,Male,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$15000-17499,42,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,282,18-29
+56,11,Female,Less than HS,Very satisfied,Very satisfied,"24,999 or less",$15000-17499,44,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,283,50+
+28,14,Female,Junior college,Mod satisfied,Not very satisfied,"25,000 to 39,999",$15000-17499,38,Working fulltime,MOST IMPT,Somewhat important,No,no,#NULL!,yes,#NULL!,284,18-29
+40,15,Male,Junior college,Very satisfied,Very satisfied,"40,000 to 59,999",$35000-39999,40,Working fulltime,NAP,Very important,Yes,yes,40,yes,38,285,40-49
+24,9,Male,Less than HS,Very satisfied,Very satisfied,"24,999 or less",$15000-17499,37,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,286,18-29
+49,9,Male,Less than HS,Mod satisfied,Not very satisfied,"40,000 to 59,999",$22500-24999,45,Working fulltime,MOST IMPT,Very important,Yes,yes,45,yes,40,287,40-49
+47,12,Male,High school,Mod satisfied,Not very satisfied,"24,999 or less",$15000-17499,70,Working fulltime,NAP,Very important,No,yes,70,no,20,288,40-49
+35,12,Female,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$22500-24999,45,Working fulltime,FOURTH,Very important,Yes,yes,43,yes,45,289,30-39
+35,12,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$30000-34999,50,Working fulltime,NAP,Very important,No,yes,50,no,20,290,30-39
+20,12,Female,High school,Mod satisfied,Not very satisfied,"60,000 or more",$5000-5999,39,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,291,18-29
+37,14,Male,Junior college,A little dissatisfied,Not very satisfied,"60,000 or more",$22500-24999,42,Working fulltime,FOURTH,Very important,Yes,yes,42,yes,60,292,30-39
+51,15,Female,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$20000-22499,40,Working fulltime,FOURTH,Somewhat important,Yes,yes,60,yes,40,293,50+
+44,16,Male,Bachelor,Mod satisfied,Not very satisfied,"40,000 to 59,999",$15000-17499,60,Working fulltime,NAP,Very important,Yes,yes,60,yes,60,294,40-49
+28,16,Male,Bachelor,Mod satisfied,Not very satisfied,"24,999 or less",$22500-24999,40,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,295,18-29
+51,13,Male,High school,Very satisfied,Very satisfied,"60,000 or more",REFUSED,52,Working fulltime,THIRD,One of most important,No,yes,52,no,25,296,50+
+37,12,Female,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$10000-12499,32,Working fulltime,NAP,Very important,Yes,yes,44,yes,32,297,30-39
+40,12,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$22500-24999,46,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,298,40-49
+47,12,Male,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$22500-24999,70,Working fulltime,MOST IMPT,Very important,Yes,yes,70,yes,40,299,40-49
+43,14,Male,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$50000-59999,50,Working fulltime,NAP,One of most important,No,yes,#NULL!,no,#NULL!,300,40-49
+43,16,Female,Bachelor,Very satisfied,Very satisfied,"25,000 to 39,999",$25000-29999,60,Working fulltime,THIRD,Very important,Yes,yes,50,yes,60,301,40-49
+27,13,Male,Junior college,A little dissatisfied,Not very satisfied,"24,999 or less",$8000-9999,70,Working fulltime,MOST IMPT,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,302,18-29
+39,16,Male,Bachelor,Very satisfied,Very satisfied,"24,999 or less",$17500-19999,80,Working fulltime,SECOND,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,303,30-39
+45,12,Male,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$30000-34999,50,Working fulltime,NAP,One of most important,No,yes,50,no,15,304,40-49
+35,14,Female,High school,Mod satisfied,Not very satisfied,"60,000 or more",REFUSED,55,Working fulltime,SECOND,Very important,Yes,yes,40,yes,55,305,30-39
+65,12,Male,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$30000-34999,50,Working fulltime,SECOND,NA,No,yes,50,no,15,306,50+
+45,12,Male,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$30000-34999,60,Working fulltime,MOST IMPT,Very important,Yes,yes,60,yes,60,307,40-49
+46,12,Female,High school,A little dissatisfied,Not very satisfied,"60,000 or more",REFUSED,40,Working fulltime,NAP,Very important,Yes,yes,40,yes,40,308,40-49
+47,11,Female,High school,Very satisfied,Very satisfied,"24,999 or less",$3000-3999,36,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,309,40-49
+30,12,Male,High school,Very satisfied,Very satisfied,"40,000 to 59,999",NAP,50,Working fulltime,SECOND,Very important,No,yes,50,no,20,310,30-39
+39,12,Female,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$20000-22499,58,Working fulltime,NAP,Very important,Yes,yes,40,yes,58,311,30-39
+52,12,Female,High school,A little dissatisfied,Not very satisfied,"24,999 or less",$12500-14999,38,Working fulltime,THIRD,Very important,Yes,yes,6,yes,38,312,50+
+NA,10,Female,Less than HS,Mod satisfied,Not very satisfied,"60,000 or more",REFUSED,40,Working fulltime,MOST IMPT,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,313,#NULL!
+51,12,Female,High school,Mod satisfied,Not very satisfied,"60,000 or more",REFUSED,37,Working fulltime,NAP,Somewhat important,Yes,yes,40,yes,37,314,50+
+28,17,Male,Bachelor,Mod satisfied,Not very satisfied,"25,000 to 39,999",$25000-29999,55,Working fulltime,FOURTH,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,315,18-29
+37,12,Female,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$20000-22499,40,Working fulltime,THIRD,Very important,Yes,yes,40,yes,40,316,30-39
+55,13,Male,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$30000-34999,60,Working fulltime,MOST IMPT,Very important,Yes,yes,60,yes,72,317,50+
+46,11,Male,High school,Mod satisfied,Not very satisfied,"24,999 or less",$22500-24999,60,Working fulltime,NA,Very important,No,yes,#NULL!,no,#NULL!,318,40-49
+63,9,Male,Less than HS,Very satisfied,Very satisfied,"60,000 or more",$40000-49999,48,Working fulltime,FOURTH,Very important,Yes,yes,48,yes,40,319,50+
+21,14,Female,High school,Very satisfied,Very satisfied,"24,999 or less",$5000-5999,40,Working fulltime,SECOND,Very important,Yes,yes,32,yes,40,320,18-29
+41,12,Male,High school,Very satisfied,Very satisfied,"24,999 or less",$15000-17499,45,Working fulltime,THIRD,Somewhat important,No,yes,#NULL!,no,#NULL!,321,40-49
+33,9,Male,Less than HS,Mod satisfied,Not very satisfied,"24,999 or less",$12500-14999,44,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,322,30-39
+21,12,Male,High school,Mod satisfied,Not very satisfied,"24,999 or less",$1000-2999,20,Working fulltime,THIRD,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,323,18-29
+29,11,Female,Less than HS,Very dissatisfied,Not very satisfied,"24,999 or less",$12500-14999,70,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,324,18-29
+41,12,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$15000-17499,60,Working fulltime,THIRD,Very important,Yes,yes,60,yes,40,325,40-49
+33,20,Male,Graduate,Very satisfied,Very satisfied,"25,000 to 39,999",$25000-29999,65,Working fulltime,NAP,Very important,No,yes,65,no,20,326,30-39
+58,13,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$7000-7999,38,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,327,50+
+43,14,Female,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$25000-29999,40,Working fulltime,SECOND,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,328,40-49
+45,14,Female,Junior college,Very satisfied,Very satisfied,"60,000 or more",REFUSED,40,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,329,40-49
+26,13,Male,High school,Very satisfied,Very satisfied,"24,999 or less",$22500-24999,44,Working fulltime,NAP,Very important,No,yes,#NULL!,no,#NULL!,330,18-29
+42,14,Male,Junior college,Very satisfied,Very satisfied,"40,000 to 59,999",$35000-39999,46,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,331,40-49
+41,12,Male,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$17500-19999,42,Working fulltime,THIRD,Somewhat important,Yes,yes,42,yes,40,332,40-49
+41,12,Male,High school,Mod satisfied,Not very satisfied,"24,999 or less",$17500-19999,24,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,333,40-49
+42,14,Female,Junior college,Mod satisfied,Not very satisfied,"25,000 to 39,999",$17500-19999,40,Working fulltime,NA,Very important,No,no,30,yes,40,334,40-49
+26,12,Male,High school,Mod satisfied,Not very satisfied,"24,999 or less",$17500-19999,44,Working fulltime,MOST IMPT,Very important,No,yes,#NULL!,no,#NULL!,335,18-29
+57,8,Female,Less than HS,Mod satisfied,Not very satisfied,"24,999 or less",$12500-14999,52,Working fulltime,FOURTH,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,336,50+
+50,12,Female,High school,Mod satisfied,Not very satisfied,"60,000 or more",$10000-12499,44,Working fulltime,NAP,Somewhat important,Yes,yes,40,yes,44,337,50+
+43,18,Female,Graduate,Very satisfied,Very satisfied,"60,000 or more",$30000-34999,45,Working fulltime,FOURTH,Very important,Yes,yes,45,yes,45,338,40-49
+30,16,Female,Bachelor,Mod satisfied,Not very satisfied,"60,000 or more",$15000-17499,40,Working fulltime,FOURTH,Somewhat important,Yes,yes,50,yes,40,339,30-39
+58,14,Male,Junior college,Very satisfied,Very satisfied,"24,999 or less",$10000-12499,50,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,340,50+
+50,9,Female,Less than HS,Mod satisfied,Not very satisfied,"60,000 or more",REFUSED,40,Working fulltime,NAP,NA,No,no,#NULL!,yes,#NULL!,341,50+
+33,18,Male,Bachelor,Mod satisfied,Not very satisfied,"60,000 or more",REFUSED,40,Working fulltime,NAP,Somewhat important,No,yes,#NULL!,no,#NULL!,342,30-39
+36,12,Male,High school,Mod satisfied,Not very satisfied,"60,000 or more",REFUSED,40,Working fulltime,NAP,Very important,Yes,yes,40,yes,40,343,30-39
+82,16,Male,Bachelor,Very satisfied,Very satisfied,"60,000 or more",$75000+,36,Working fulltime,THIRD,Very important,No,yes,#NULL!,no,#NULL!,344,50+
+36,18,Female,Bachelor,A little dissatisfied,Not very satisfied,"24,999 or less",$20000-22499,16,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,345,30-39
+48,12,Female,High school,Very dissatisfied,Not very satisfied,"60,000 or more",REFUSED,43,Working fulltime,SECOND,NA,Yes,yes,30,yes,43,346,40-49
+27,16,Female,Bachelor,Very satisfied,Very satisfied,"24,999 or less",$15000-17499,45,Working fulltime,THIRD,Very important,No,no,#NULL!,yes,#NULL!,347,18-29
+37,13,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$10000-12499,55,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,348,30-39
+39,12,Female,High school,Very satisfied,Very satisfied,"24,999 or less",$12500-14999,75,Working fulltime,SECOND,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,349,30-39
+23,12,Male,High school,Very satisfied,Very satisfied,"24,999 or less",$22500-24999,56,Working fulltime,SECOND,Very important,No,yes,#NULL!,no,#NULL!,350,18-29
+24,13,Male,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$20000-22499,DK,Working fulltime,THIRD,Very important,Yes,yes,#NULL!,yes,#NULL!,351,18-29
+31,12,Male,High school,Mod satisfied,Not very satisfied,"24,999 or less",$10000-12499,40,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,352,30-39
+47,14,Male,Junior college,Very satisfied,Very satisfied,"40,000 to 59,999",$40000-49999,55,Working fulltime,THIRD,Very important,No,yes,#NULL!,no,#NULL!,353,40-49
+46,14,Male,High school,A little dissatisfied,Not very satisfied,"24,999 or less",$22500-24999,75,Working fulltime,MOST IMPT,Very important,No,yes,#NULL!,no,#NULL!,354,40-49
+35,17,Female,Bachelor,Very satisfied,Very satisfied,"60,000 or more",$35000-39999,50,Working fulltime,NAP,One of most important,Yes,yes,45,yes,50,355,30-39
+34,13,Male,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$25000-29999,44,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,356,30-39
+47,7,Male,Less than HS,Mod satisfied,Not very satisfied,"24,999 or less",$20000-22499,61,Working fulltime,SECOND,One of most important,No,yes,#NULL!,no,#NULL!,357,40-49
+42,12,Male,High school,Very satisfied,Very satisfied,"60,000 or more",REFUSED,40,Working fulltime,NAP,Very important,Yes,yes,40,yes,40,358,40-49
+46,16,Female,Bachelor,Mod satisfied,Not very satisfied,"24,999 or less",$8000-9999,40,Working fulltime,THIRD,One of most important,Yes,yes,40,yes,40,359,40-49
+38,14,Female,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$30000-34999,40,Working fulltime,NAP,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,360,30-39
+38,12,Male,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$22500-24999,53,Working fulltime,FOURTH,One of most important,No,yes,53,no,5,361,30-39
+56,12,Male,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$50000-59999,40,Working fulltime,MOST IMPT,Somewhat important,No,yes,#NULL!,no,#NULL!,362,50+
+35,16,Male,Bachelor,Very satisfied,Very satisfied,"60,000 or more",NAP,68,Working fulltime,NAP,One of most important,No,yes,68,no,20,363,30-39
+20,12,Female,High school,Very satisfied,Very satisfied,"60,000 or more",$7000-7999,35,Working fulltime,FOURTH,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,364,18-29
+43,16,Male,Bachelor,Very satisfied,Very satisfied,"40,000 to 59,999",$40000-49999,70,Working fulltime,SECOND,Very important,No,yes,70,no,15,365,40-49
+39,14,Female,High school,Very satisfied,Very satisfied,"60,000 or more",$25000-29999,40,Working fulltime,NA,Very important,Yes,yes,40,yes,40,366,30-39
+48,16,Male,Bachelor,Mod satisfied,Not very satisfied,"40,000 to 59,999",$35000-39999,45,Working fulltime,NAP,Somewhat important,Yes,yes,45,yes,40,367,40-49
+38,14,Male,Junior college,Very satisfied,Very satisfied,"25,000 to 39,999",$15000-17499,48,Working fulltime,FOURTH,Somewhat important,Yes,yes,48,yes,36,368,30-39
+44,13,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$17500-19999,50,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,369,40-49
+35,16,Male,Bachelor,Very satisfied,Very satisfied,"25,000 to 39,999",$30000-34999,45,Working fulltime,NAP,One of most important,Yes,yes,45,yes,40,370,30-39
+24,13,Male,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$3000-3999,40,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,371,18-29
+37,18,Female,Graduate,Very satisfied,Very satisfied,"24,999 or less",$22500-24999,60,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,372,30-39
+55,17,Male,Graduate,Very satisfied,Very satisfied,"60,000 or more",$40000-49999,60,Working fulltime,NAP,One of most important,Yes,yes,60,yes,45,373,50+
+38,18,Female,Graduate,Very satisfied,Very satisfied,"40,000 to 59,999",$25000-29999,40,Working fulltime,THIRD,Very important,Yes,yes,40,yes,40,374,30-39
+62,16,Female,Bachelor,Mod satisfied,Not very satisfied,"24,999 or less",$22500-24999,28,Working fulltime,SECOND,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,375,50+
+30,20,Male,Graduate,Mod satisfied,Not very satisfied,"60,000 or more",$60000-74999,60,Working fulltime,MOST IMPT,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,376,30-39
+49,20,Male,Graduate,Very satisfied,Very satisfied,"60,000 or more",REFUSED,40,Working fulltime,THIRD,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,377,40-49
+43,18,Male,Graduate,Very satisfied,Very satisfied,"60,000 or more",$75000+,40,Working fulltime,NAP,One of most important,Yes,yes,40,yes,40,378,40-49
+NA,12,Female,High school,Very satisfied,Very satisfied,"60,000 or more",$75000+,NA,Working fulltime,NA,Very important,Yes,yes,#NULL!,yes,#NULL!,379,#NULL!
+47,16,Male,Bachelor,A little dissatisfied,Not very satisfied,"60,000 or more",$75000+,NA,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,380,40-49
+32,16,Male,Bachelor,Very satisfied,Very satisfied,"60,000 or more",$75000+,60,Working fulltime,THIRD,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,381,30-39
+35,16,Female,Bachelor,Very satisfied,Very satisfied,"60,000 or more",$40000-49999,40,Working fulltime,SECOND,One of most important,Yes,yes,40,yes,40,382,30-39
+31,16,Female,Bachelor,Mod satisfied,Not very satisfied,"40,000 to 59,999",$25000-29999,28,Working fulltime,NAP,One of most important,Yes,yes,40,yes,28,383,30-39
+40,18,Male,Graduate,Very satisfied,Very satisfied,"60,000 or more",$75000+,65,Working fulltime,NAP,One of most important,No,yes,#NULL!,no,#NULL!,384,40-49
+30,16,Female,Bachelor,Mod satisfied,Not very satisfied,"60,000 or more",REFUSED,40,Working fulltime,MOST IMPT,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,385,30-39
+51,12,Male,High school,Mod satisfied,Not very satisfied,"60,000 or more",$50000-59999,35,Working fulltime,NAP,One of most important,Yes,yes,35,yes,37,386,50+
+24,15,Male,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$25000-29999,45,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,387,18-29
+38,16,Male,Bachelor,Very satisfied,Very satisfied,"60,000 or more",$75000+,60,Working fulltime,THIRD,Very important,Yes,yes,60,yes,40,388,30-39
+74,12,Male,High school,Mod satisfied,Not very satisfied,"60,000 or more",$75000+,70,Working fulltime,FOURTH,Somewhat important,No,yes,#NULL!,no,#NULL!,389,50+
+63,14,Female,Junior college,Very satisfied,Very satisfied,"60,000 or more",$30000-34999,35,Working fulltime,NAP,Very important,No,no,#NULL!,yes,#NULL!,390,50+
+51,10,Male,Less than HS,Mod satisfied,Not very satisfied,"25,000 to 39,999",$25000-29999,50,Working fulltime,THIRD,Very important,No,yes,50,no,20,391,50+
+33,16,Male,Bachelor,Very satisfied,Very satisfied,"40,000 to 59,999",$50000-59999,70,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,392,30-39
+27,20,Male,Graduate,Very satisfied,Very satisfied,"25,000 to 39,999",$15000-17499,40,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,393,18-29
+22,12,Female,High school,Very dissatisfied,Not very satisfied,"25,000 to 39,999",$15000-17499,40,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,394,18-29
+40,13,Male,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$40000-49999,45,Working fulltime,NAP,Somewhat important,No,yes,#NULL!,no,#NULL!,395,40-49
+43,12,Female,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$25000-29999,50,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,396,40-49
+35,20,Male,Graduate,A little dissatisfied,Not very satisfied,"60,000 or more",$40000-49999,80,Working fulltime,SECOND,Very important,No,yes,#NULL!,no,#NULL!,397,30-39
+39,18,Male,Graduate,Mod satisfied,Not very satisfied,"25,000 to 39,999",$30000-34999,60,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,398,30-39
+40,18,Male,Graduate,Mod satisfied,Not very satisfied,"40,000 to 59,999",$50000-59999,50,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,399,40-49
+34,16,Male,Graduate,Mod satisfied,Not very satisfied,"60,000 or more",$60000-74999,50,Working fulltime,NAP,Very important,No,yes,#NULL!,no,#NULL!,400,30-39
+77,12,Female,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$40000-49999,35,Working fulltime,THIRD,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,401,50+
+53,14,Female,High school,Very dissatisfied,Not very satisfied,"40,000 to 59,999",$35000-39999,45,Working fulltime,THIRD,Very important,No,no,#NULL!,yes,#NULL!,402,50+
+38,16,Female,Bachelor,Very satisfied,Very satisfied,"60,000 or more",NAP,60,Working fulltime,THIRD,NA,No,no,#NULL!,yes,#NULL!,403,30-39
+32,12,Male,Less than HS,Very satisfied,Very satisfied,"40,000 to 59,999",$20000-22499,40,Working fulltime,NAP,Very important,No,yes,#NULL!,no,#NULL!,404,30-39
+39,14,Female,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$20000-22499,40,Working fulltime,FOURTH,Somewhat important,Yes,yes,40,yes,40,405,30-39
+47,11,Female,Less than HS,Mod satisfied,Not very satisfied,"40,000 to 59,999",$17500-19999,40,Working fulltime,NAP,One of most important,No,no,#NULL!,yes,#NULL!,406,40-49
+43,13,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$35000-39999,46,Working fulltime,NAP,Very important,No,yes,#NULL!,no,#NULL!,407,40-49
+46,15,Male,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$50000-59999,60,Working fulltime,SECOND,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,408,40-49
+32,14,Male,High school,Very dissatisfied,Not very satisfied,"60,000 or more",DK,55,Working fulltime,NAP,One of most important,No,yes,#NULL!,no,#NULL!,409,30-39
+57,14,Female,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$40000-49999,80,Working fulltime,THIRD,Not too important,No,#NULL!,#NULL!,#NULL!,#NULL!,410,50+
+28,17,Female,Bachelor,Mod satisfied,Not very satisfied,"60,000 or more",$25000-29999,40,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,411,18-29
+26,10,Male,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$50000-59999,50,Working fulltime,SECOND,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,412,18-29
+45,14,Female,High school,Very satisfied,Very satisfied,"60,000 or more",$30000-34999,40,Working fulltime,THIRD,Very important,Yes,yes,40,yes,40,413,40-49
+44,12,Male,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$35000-39999,55,Working fulltime,FOURTH,Very important,No,yes,55,no,20,414,40-49
+46,14,Female,Junior college,Mod satisfied,Not very satisfied,"40,000 to 59,999",$50000-59999,41,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,415,40-49
+55,12,Female,High school,Mod satisfied,Not very satisfied,"60,000 or more",$30000-34999,40,Working fulltime,NAP,One of most important,Yes,yes,40,yes,40,416,50+
+36,16,Male,Bachelor,Mod satisfied,Not very satisfied,"40,000 to 59,999",$50000-59999,45,Working fulltime,FOURTH,Very important,No,yes,#NULL!,no,#NULL!,417,30-39
+25,13,Female,High school,Mod satisfied,Not very satisfied,"60,000 or more",$22500-24999,48,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,418,18-29
+38,15,Male,High school,A little dissatisfied,Not very satisfied,"24,999 or less",NAP,38,Working fulltime,NAP,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,419,30-39
+49,13,Male,High school,Very satisfied,Very satisfied,"60,000 or more",$50000-59999,40,Working fulltime,THIRD,One of most important,Yes,yes,40,yes,40,420,40-49
+52,10,Male,Less than HS,Mod satisfied,Not very satisfied,"25,000 to 39,999",$15000-17499,40,Working fulltime,THIRD,One of most important,Yes,yes,40,yes,40,421,50+
+39,13,Male,High school,Very satisfied,Very satisfied,"60,000 or more",$60000-74999,70,Working fulltime,THIRD,Very important,No,yes,#NULL!,no,#NULL!,422,30-39
+27,16,Female,Bachelor,Very satisfied,Very satisfied,"60,000 or more",$50000-59999,45,Working fulltime,THIRD,Very important,Yes,yes,45,yes,45,423,18-29
+38,12,Female,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$25000-29999,40,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,424,30-39
+38,18,Male,Graduate,Mod satisfied,Not very satisfied,"60,000 or more",$60000-74999,45,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,425,30-39
+29,14,Male,High school,Mod satisfied,Not very satisfied,"60,000 or more",REFUSED,55,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,426,18-29
+47,19,Male,Graduate,Very dissatisfied,Not very satisfied,"24,999 or less",$4000-4999,60,Working fulltime,NAP,One of most important,Yes,yes,60,yes,60,427,40-49
+38,13,Female,High school,A little dissatisfied,Not very satisfied,"24,999 or less",$4000-4999,35,Working fulltime,THIRD,Very important,Yes,yes,40,yes,35,428,30-39
+43,12,Female,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$30000-34999,60,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,429,40-49
+42,13,Female,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$25000-29999,65,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,430,40-49
+60,12,Male,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$25000-29999,50,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,431,50+
+47,6,Male,Less than HS,Very satisfied,Very satisfied,"25,000 to 39,999",$25000-29999,40,Working fulltime,NAP,One of most important,No,yes,#NULL!,no,#NULL!,432,40-49
+36,16,Male,Bachelor,Mod satisfied,Not very satisfied,"60,000 or more",$35000-39999,50,Working fulltime,NAP,Very important,No,yes,50,no,24,433,30-39
+45,16,Male,Bachelor,Very satisfied,Very satisfied,"40,000 to 59,999",$35000-39999,40,Working fulltime,FOURTH,Very important,No,yes,40,no,26,434,40-49
+53,18,Male,Graduate,Mod satisfied,Not very satisfied,"40,000 to 59,999",$25000-29999,50,Working fulltime,MOST IMPT,Very important,Yes,yes,50,yes,50,435,50+
+44,12,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$22500-24999,40,Working fulltime,NAP,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,436,40-49
+49,16,Male,Bachelor,Very satisfied,Very satisfied,"60,000 or more",$75000+,40,Working fulltime,NAP,Somewhat important,No,yes,#NULL!,no,#NULL!,437,40-49
+57,16,Female,Bachelor,Very satisfied,Very satisfied,"40,000 to 59,999",$50000-59999,40,Working fulltime,SECOND,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,438,50+
+39,12,Female,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$20000-22499,40,Working fulltime,NAP,Very important,Yes,yes,40,yes,40,439,30-39
+48,12,Female,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$22500-24999,48,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,440,40-49
+32,9,Female,Less than HS,Very satisfied,Very satisfied,"25,000 to 39,999",$15000-17499,40,Working fulltime,NA,One of most important,Yes,yes,40,yes,40,441,30-39
+41,15,Male,High school,Very satisfied,Very satisfied,"24,999 or less",$8000-9999,40,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,442,40-49
+34,14,Female,Junior college,Very satisfied,Very satisfied,"24,999 or less",$22500-24999,45,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,443,30-39
+39,16,Female,Bachelor,Very satisfied,Very satisfied,"60,000 or more",$30000-34999,50,Working fulltime,SECOND,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,444,30-39
+41,19,Female,Graduate,Very satisfied,Very satisfied,"60,000 or more",$60000-74999,55,Working fulltime,NAP,Very important,No,no,#NULL!,yes,#NULL!,445,40-49
+56,10,Female,Less than HS,Mod satisfied,Not very satisfied,"25,000 to 39,999",$25000-29999,40,Working fulltime,SECOND,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,446,50+
+35,10,Female,Less than HS,Mod satisfied,Not very satisfied,"25,000 to 39,999",$30000-34999,37,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,447,30-39
+32,15,Male,High school,A little dissatisfied,Not very satisfied,"25,000 to 39,999",$22500-24999,57,Working fulltime,MOST IMPT,Somewhat important,Yes,yes,57,yes,40,448,30-39
+49,11,Female,High school,Mod satisfied,Not very satisfied,"60,000 or more",$25000-29999,80,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,449,40-49
+28,12,Male,High school,Mod satisfied,Not very satisfied,"24,999 or less",$22500-24999,52,Working fulltime,SECOND,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,450,18-29
+45,19,Male,Graduate,Very satisfied,Very satisfied,"60,000 or more",$75000+,75,Working fulltime,FOURTH,Somewhat important,No,yes,75,no,5,451,40-49
+28,18,Male,Graduate,Very dissatisfied,Not very satisfied,"60,000 or more",$30000-34999,40,Working fulltime,NAP,Very important,Yes,yes,40,yes,40,452,18-29
+35,19,Male,Graduate,A little dissatisfied,Not very satisfied,"60,000 or more",$40000-49999,60,Working fulltime,NAP,Very important,No,yes,#NULL!,no,#NULL!,453,30-39
+31,12,Female,High school,Very satisfied,Very satisfied,"24,999 or less",$22500-24999,55,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,454,30-39
+41,11,Female,High school,Very satisfied,Very satisfied,"24,999 or less",$15000-17499,40,Working fulltime,MOST IMPT,Not too important,No,#NULL!,#NULL!,#NULL!,#NULL!,455,40-49
+36,12,Male,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",NAP,40,Working fulltime,NAP,Not too important,No,yes,#NULL!,no,#NULL!,456,30-39
+31,19,Female,Graduate,Mod satisfied,Not very satisfied,"60,000 or more",$50000-59999,46,Working fulltime,MOST IMPT,Very important,Yes,yes,55,yes,46,457,30-39
+30,14,Female,Junior college,Very satisfied,Very satisfied,"25,000 to 39,999",$30000-34999,80,Working fulltime,SECOND,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,458,30-39
+29,18,Male,Junior college,Very satisfied,Very satisfied,"60,000 or more",$35000-39999,43,Working fulltime,MOST IMPT,Very important,Yes,yes,43,yes,38,459,18-29
+28,13,Female,High school,Very dissatisfied,Not very satisfied,"25,000 to 39,999",$25000-29999,40,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,460,18-29
+31,16,Female,Bachelor,Mod satisfied,Not very satisfied,"25,000 to 39,999",$25000-29999,35,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,461,30-39
+50,16,Female,Bachelor,Mod satisfied,Not very satisfied,"24,999 or less",$20000-22499,40,Working fulltime,FIFTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,462,50+
+50,14,Male,Junior college,Mod satisfied,Not very satisfied,"60,000 or more",$75000+,70,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,463,50+
+29,12,Female,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$10000-12499,58,Working fulltime,NAP,Not too important,Yes,yes,60,yes,58,464,18-29
+25,17,Male,Bachelor,Very satisfied,Very satisfied,"24,999 or less",$12500-14999,40,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,465,18-29
+39,18,Female,Bachelor,Mod satisfied,Not very satisfied,"25,000 to 39,999",$30000-34999,40,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,466,30-39
+38,19,Male,Bachelor,Very satisfied,Very satisfied,"60,000 or more",$75000+,65,Working fulltime,SECOND,Very important,No,yes,65,no,4,467,30-39
+39,17,Male,Graduate,A little dissatisfied,Not very satisfied,"60,000 or more",REFUSED,40,Working fulltime,NAP,Very important,No,yes,40,no,20,468,30-39
+37,13,Female,High school,Mod satisfied,Not very satisfied,"60,000 or more",$10000-12499,40,Working fulltime,THIRD,One of most important,Yes,yes,50,yes,40,469,30-39
+38,14,Female,High school,Very satisfied,Very satisfied,"24,999 or less",$17500-19999,40,Working fulltime,SECOND,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,470,30-39
+65,16,Male,Bachelor,Very satisfied,Very satisfied,"60,000 or more",$75000+,60,Working fulltime,NAP,One of most important,No,yes,#NULL!,no,#NULL!,471,50+
+58,16,Male,Bachelor,Very satisfied,Very satisfied,"60,000 or more",$50000-59999,60,Working fulltime,NAP,Somewhat important,Yes,yes,60,yes,35,472,50+
+51,16,Female,Bachelor,Mod satisfied,Not very satisfied,"60,000 or more",DK,45,Working fulltime,NAP,Very important,Yes,yes,55,yes,45,473,50+
+40,18,Female,Bachelor,Very dissatisfied,Not very satisfied,"60,000 or more",$15000-17499,40,Working fulltime,NA,Very important,Yes,yes,40,yes,40,474,40-49
+30,16,Male,Bachelor,Very satisfied,Very satisfied,"25,000 to 39,999",$17500-19999,37,Working fulltime,SECOND,Very important,Yes,yes,37,yes,40,475,30-39
+47,20,Male,Graduate,Very satisfied,Very satisfied,"60,000 or more",$75000+,70,Working fulltime,THIRD,One of most important,Yes,yes,70,yes,50,476,40-49
+49,14,Female,High school,Very satisfied,Very satisfied,"60,000 or more",$75000+,80,Working fulltime,THIRD,Very important,Yes,yes,40,yes,80,477,40-49
+35,15,Female,Junior college,Very satisfied,Very satisfied,"60,000 or more",$3000-3999,35,Working fulltime,THIRD,Somewhat important,Yes,yes,53,yes,35,478,30-39
+58,14,Male,High school,Very satisfied,Very satisfied,"60,000 or more",$75000+,60,Working fulltime,MOST IMPT,Very important,No,yes,#NULL!,no,#NULL!,479,50+
+23,16,Female,Bachelor,Very satisfied,Very satisfied,"60,000 or more",$5000-5999,50,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,480,18-29
+30,16,Female,Bachelor,Mod satisfied,Not very satisfied,"60,000 or more",$40000-49999,40,Working fulltime,FOURTH,Not too important,Yes,yes,60,yes,40,481,30-39
+61,12,Female,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$8000-9999,30,Working fulltime,THIRD,Very important,Yes,yes,40,yes,30,482,50+
+41,12,Male,High school,Very satisfied,Very satisfied,"24,999 or less",$15000-17499,44,Working fulltime,NAP,One of most important,Yes,yes,44,yes,50,483,40-49
+27,16,Female,Bachelor,Mod satisfied,Not very satisfied,"40,000 to 59,999",$35000-39999,32,Working fulltime,SECOND,One of most important,Yes,yes,40,yes,32,484,18-29
+56,10,Male,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$25000-29999,47,Working fulltime,SECOND,Somewhat important,No,yes,47,no,10,485,50+
+25,16,Female,Bachelor,Mod satisfied,Not very satisfied,"25,000 to 39,999",$17500-19999,55,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,486,18-29
+28,13,Female,High school,Mod satisfied,Not very satisfied,"60,000 or more",$15000-17499,55,Working fulltime,NAP,Very important,Yes,yes,55,yes,55,487,18-29
+31,12,Male,High school,Mod satisfied,Not very satisfied,"24,999 or less",$10000-12499,60,Working fulltime,MOST IMPT,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,488,30-39
+31,13,Male,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$20000-22499,66,Working fulltime,MOST IMPT,One of most important,No,yes,66,no,16,489,30-39
+26,13,Male,High school,Mod satisfied,Not very satisfied,"24,999 or less",$12500-14999,40,Working fulltime,MOST IMPT,Very important,No,yes,#NULL!,no,#NULL!,490,18-29
+31,14,Male,High school,Very satisfied,Very satisfied,"24,999 or less",$20000-22499,40,Working fulltime,THIRD,Very important,Yes,yes,40,yes,50,491,30-39
+42,14,Male,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$25000-29999,25,Working fulltime,NAP,Very important,No,yes,25,no,24,492,40-49
+24,14,Female,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$30000-34999,45,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,493,18-29
+38,16,Male,Bachelor,Very dissatisfied,Not very satisfied,"25,000 to 39,999",$25000-29999,40,Working fulltime,FIFTH,Very important,No,yes,40,no,16,494,30-39
+45,13,Male,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$40000-49999,40,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,495,40-49
+38,15,Female,Junior college,Mod satisfied,Not very satisfied,"25,000 to 39,999",$30000-34999,40,Working fulltime,THIRD,Very important,Yes,yes,65,yes,40,496,30-39
+52,12,Male,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$22500-24999,50,Working fulltime,SECOND,One of most important,Yes,yes,50,yes,52,497,50+
+44,12,Female,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$12500-14999,32,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,498,40-49
+25,14,Male,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$15000-17499,40,Working fulltime,NAP,Somewhat important,Yes,yes,40,yes,40,499,18-29
+39,16,Female,Bachelor,Mod satisfied,Not very satisfied,"25,000 to 39,999",$15000-17499,40,Working fulltime,THIRD,Very important,Yes,yes,40,yes,40,500,30-39
+33,14,Female,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",REFUSED,54,Working fulltime,NAP,Very important,Yes,yes,35,yes,54,501,30-39
+56,19,Male,Graduate,Mod satisfied,Not very satisfied,"60,000 or more",$75000+,50,Working fulltime,THIRD,Very important,No,yes,#NULL!,no,#NULL!,502,50+
+46,18,Female,Graduate,Mod satisfied,Not very satisfied,"60,000 or more",$75000+,50,Working fulltime,MOST IMPT,Somewhat important,Yes,yes,60,yes,50,503,40-49
+45,16,Female,Graduate,Very satisfied,Very satisfied,"60,000 or more",$75000+,50,Working fulltime,THIRD,Very important,Yes,yes,50,yes,50,504,40-49
+47,15,Male,High school,Very dissatisfied,Not very satisfied,"40,000 to 59,999",$30000-34999,44,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,505,40-49
+25,16,Female,Bachelor,Very satisfied,Very satisfied,"60,000 or more",$30000-34999,40,Working fulltime,NA,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,506,18-29
+23,14,Female,Graduate,Mod satisfied,Not very satisfied,"24,999 or less",NAP,40,Working fulltime,NAP,One of most important,Yes,yes,60,yes,40,507,18-29
+45,12,Male,High school,Mod satisfied,Not very satisfied,"60,000 or more",$40000-49999,50,Working fulltime,FOURTH,Very important,No,yes,#NULL!,no,#NULL!,508,40-49
+23,16,Female,Bachelor,Very satisfied,Very satisfied,"25,000 to 39,999",$10000-12499,40,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,509,18-29
+57,14,Female,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$25000-29999,50,Working fulltime,THIRD,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,510,50+
+38,12,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$6000-6999,55,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,511,30-39
+57,12,Female,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$15000-17499,8,Working fulltime,MOST IMPT,Very important,No,no,#NULL!,yes,#NULL!,512,50+
+25,12,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$20000-22499,50,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,513,18-29
+35,14,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$25000-29999,50,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,514,30-39
+30,12,Female,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$17500-19999,40,Working fulltime,NAP,Very important,Yes,yes,40,yes,40,515,30-39
+37,14,Female,High school,Mod satisfied,Not very satisfied,"60,000 or more",$30000-34999,40,Working fulltime,THIRD,Somewhat important,Yes,yes,60,yes,40,516,30-39
+40,12,Female,High school,A little dissatisfied,Not very satisfied,"60,000 or more",$25000-29999,45,Working fulltime,SECOND,Somewhat important,Yes,yes,40,yes,45,517,40-49
+38,13,Female,High school,Very satisfied,Very satisfied,"60,000 or more",$25000-29999,55,Working fulltime,NAP,Somewhat important,Yes,yes,60,yes,55,518,30-39
+68,12,Male,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$40000-49999,40,Working fulltime,THIRD,Very important,No,yes,#NULL!,no,#NULL!,519,50+
+35,16,Male,Bachelor,A little dissatisfied,Not very satisfied,"40,000 to 59,999",$40000-49999,55,Working fulltime,NAP,Very important,Yes,yes,55,yes,55,520,30-39
+25,12,Male,High school,Very satisfied,Very satisfied,"24,999 or less",$22500-24999,40,Working fulltime,SECOND,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,521,18-29
+25,11,Female,High school,Mod satisfied,Not very satisfied,"60,000 or more",$22500-24999,50,Working fulltime,NAP,Very important,Yes,yes,45,yes,50,522,18-29
+55,12,Female,High school,A little dissatisfied,Not very satisfied,"24,999 or less",$17500-19999,40,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,523,50+
+29,12,Female,High school,A little dissatisfied,Not very satisfied,"25,000 to 39,999",$20000-22499,42,Working fulltime,SECOND,Somewhat important,No,no,20,yes,42,524,18-29
+43,12,Male,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$17500-19999,38,Working fulltime,MOST IMPT,One of most important,Yes,yes,38,yes,38,525,40-49
+35,13,Male,High school,Mod satisfied,Not very satisfied,"24,999 or less",$15000-17499,40,Working fulltime,MOST IMPT,Very important,No,yes,#NULL!,no,#NULL!,526,30-39
+36,14,Female,High school,A little dissatisfied,Not very satisfied,"40,000 to 59,999",$15000-17499,43,Working fulltime,NAP,Somewhat important,Yes,yes,50,yes,43,527,30-39
+29,16,Male,Bachelor,A little dissatisfied,Not very satisfied,"25,000 to 39,999",$25000-29999,55,Working fulltime,NAP,Very important,Yes,yes,55,yes,48,528,18-29
+24,11,Female,Less than HS,Mod satisfied,Not very satisfied,"24,999 or less",$3000-3999,38,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,529,18-29
+53,15,Female,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$30000-34999,40,Working fulltime,THIRD,Very important,Yes,yes,40,yes,40,530,50+
+37,12,Female,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$25000-29999,50,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,531,30-39
+46,12,Female,High school,Very satisfied,Very satisfied,"60,000 or more",$25000-29999,48,Working fulltime,THIRD,Very important,Yes,yes,55,yes,48,532,40-49
+39,12,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$35000-39999,40,Working fulltime,THIRD,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,533,30-39
+60,12,Male,High school,A little dissatisfied,Not very satisfied,"24,999 or less",$4000-4999,56,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,534,50+
+28,12,Male,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$40000-49999,56,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,535,18-29
+58,12,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$30000-34999,45,Working fulltime,SECOND,One of most important,No,yes,#NULL!,no,#NULL!,536,50+
+51,12,Male,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$35000-39999,52,Working fulltime,NAP,Very important,Yes,yes,52,yes,45,537,50+
+50,16,Female,Bachelor,Very satisfied,Very satisfied,"60,000 or more",$40000-49999,40,Working fulltime,NAP,One of most important,Yes,yes,40,yes,40,538,50+
+58,8,Male,Less than HS,Mod satisfied,Not very satisfied,"24,999 or less",LT $1000,41,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,539,50+
+34,12,Female,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$25000-29999,40,Working fulltime,SECOND,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,540,30-39
+33,12,Male,High school,A little dissatisfied,Not very satisfied,"60,000 or more",$40000-49999,46,Working fulltime,SECOND,Somewhat important,No,yes,46,no,30,541,30-39
+42,12,Male,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$22500-24999,40,Working fulltime,FIFTH,Not at all important,Yes,yes,40,yes,32,542,40-49
+45,15,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$25000-29999,65,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,543,40-49
+32,12,Female,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$20000-22499,48,Working fulltime,THIRD,Very important,Yes,yes,45,yes,48,544,30-39
+29,12,Male,High school,Mod satisfied,Not very satisfied,"60,000 or more",$75000+,80,Working fulltime,MOST IMPT,One of most important,No,yes,80,no,24,545,18-29
+23,12,Male,High school,Very satisfied,Very satisfied,"24,999 or less",$12500-14999,51,Working fulltime,FOURTH,Very important,No,yes,#NULL!,no,#NULL!,546,18-29
+42,12,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$35000-39999,42,Working fulltime,THIRD,Very important,No,yes,#NULL!,no,#NULL!,547,40-49
+28,12,Male,High school,Very satisfied,Very satisfied,"24,999 or less",$8000-9999,40,Working fulltime,THIRD,Very important,No,yes,40,no,25,548,18-29
+35,12,Male,High school,Mod satisfied,Not very satisfied,"24,999 or less",$17500-19999,40,Working fulltime,NAP,One of most important,No,yes,#NULL!,no,#NULL!,549,30-39
+45,14,Female,Junior college,Very satisfied,Very satisfied,"40,000 to 59,999",$30000-34999,50,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,550,40-49
+54,16,Female,Bachelor,Mod satisfied,Not very satisfied,"60,000 or more",NAP,70,Working fulltime,NAP,NA,No,#NULL!,#NULL!,#NULL!,#NULL!,551,50+
+58,16,Male,Bachelor,Very satisfied,Very satisfied,"60,000 or more",$75000+,50,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,552,50+
+58,16,Male,Graduate,Very satisfied,Very satisfied,"60,000 or more",$75000+,70,Working fulltime,SECOND,Very important,No,yes,#NULL!,no,#NULL!,553,50+
+67,16,Female,Bachelor,Very satisfied,Very satisfied,"60,000 or more",$22500-24999,46,Working fulltime,THIRD,Very important,No,no,25,yes,46,554,50+
+44,12,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$17500-19999,40,Working fulltime,NAP,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,555,40-49
+30,14,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$35000-39999,45,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,556,30-39
+34,16,Female,Bachelor,Very dissatisfied,Not very satisfied,"25,000 to 39,999",$25000-29999,35,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,557,30-39
+45,13,Male,High school,A little dissatisfied,Not very satisfied,"25,000 to 39,999",$35000-39999,48,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,558,40-49
+47,12,Male,High school,A little dissatisfied,Not very satisfied,"40,000 to 59,999",$40000-49999,40,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,559,40-49
+31,12,Female,High school,Very satisfied,Very satisfied,"60,000 or more",$30000-34999,40,Working fulltime,FIFTH,Somewhat important,Yes,yes,40,yes,40,560,30-39
+25,16,Male,Bachelor,Mod satisfied,Not very satisfied,"40,000 to 59,999",$35000-39999,40,Working fulltime,NAP,Very important,No,yes,#NULL!,no,#NULL!,561,18-29
+40,12,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$17500-19999,40,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,562,40-49
+49,12,Female,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$25000-29999,40,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,563,40-49
+42,13,Male,High school,A little dissatisfied,Not very satisfied,"60,000 or more",$60000-74999,50,Working fulltime,NAP,Not too important,No,yes,#NULL!,no,#NULL!,564,40-49
+42,10,Female,Less than HS,Mod satisfied,Not very satisfied,"24,999 or less",$7000-7999,40,Working fulltime,MOST IMPT,Very important,No,no,#NULL!,yes,#NULL!,565,40-49
+29,9,Male,Less than HS,A little dissatisfied,Not very satisfied,"24,999 or less",$22500-24999,40,Working fulltime,MOST IMPT,Very important,No,yes,#NULL!,no,#NULL!,566,18-29
+26,13,Female,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$10000-12499,40,Working fulltime,MOST IMPT,Somewhat important,Yes,yes,60,yes,40,567,18-29
+60,14,Male,Junior college,Mod satisfied,Not very satisfied,"24,999 or less",$10000-12499,40,Working fulltime,MOST IMPT,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,568,50+
+25,14,Female,High school,Very satisfied,Very satisfied,"24,999 or less",$17500-19999,40,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,569,18-29
+44,17,Male,Bachelor,Mod satisfied,Not very satisfied,"25,000 to 39,999",$35000-39999,35,Working fulltime,SECOND,One of most important,No,yes,#NULL!,no,#NULL!,570,40-49
+38,12,Male,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$30000-34999,50,Working fulltime,NAP,Somewhat important,No,yes,#NULL!,no,#NULL!,571,30-39
+34,18,Female,Graduate,Very satisfied,Very satisfied,"60,000 or more",$30000-34999,45,Working fulltime,SECOND,One of most important,Yes,yes,45,yes,45,572,30-39
+49,16,Female,Bachelor,Very satisfied,Very satisfied,"25,000 to 39,999",$35000-39999,40,Working fulltime,SECOND,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,573,40-49
+33,19,Male,Graduate,Very satisfied,Very satisfied,"25,000 to 39,999",$15000-17499,40,Working fulltime,NAP,Very important,Yes,yes,40,yes,32,574,30-39
+55,16,Female,Bachelor,Mod satisfied,Not very satisfied,"60,000 or more",$12500-14999,80,Working fulltime,SECOND,Very important,Yes,yes,60,yes,80,575,50+
+21,12,Male,High school,Mod satisfied,Not very satisfied,"60,000 or more",$12500-14999,40,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,576,18-29
+36,17,Male,Bachelor,Mod satisfied,Not very satisfied,"40,000 to 59,999",$30000-34999,40,Working fulltime,FOURTH,Very important,Yes,yes,40,yes,40,577,30-39
+31,12,Male,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$22500-24999,40,Working fulltime,NAP,Very important,Yes,yes,40,yes,40,578,30-39
+47,12,Male,High school,Very satisfied,Very satisfied,"60,000 or more",$75000+,50,Working fulltime,FOURTH,Very important,No,yes,#NULL!,no,#NULL!,579,40-49
+38,8,Male,Less than HS,A little dissatisfied,Not very satisfied,"24,999 or less",$12500-14999,36,Working fulltime,NA,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,580,30-39
+49,7,Male,Less than HS,Very satisfied,Very satisfied,"24,999 or less",$17500-19999,30,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,581,40-49
+39,12,Female,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$20000-22499,65,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,582,30-39
+24,11,Male,Less than HS,Mod satisfied,Not very satisfied,"25,000 to 39,999",$15000-17499,38,Working fulltime,NAP,Very important,Yes,yes,38,yes,40,583,18-29
+37,12,Male,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$22500-24999,50,Working fulltime,THIRD,Very important,Yes,yes,50,yes,55,584,30-39
+40,12,Female,High school,Very satisfied,Very satisfied,"24,999 or less",$20000-22499,40,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,585,40-49
+26,14,Male,Junior college,Mod satisfied,Not very satisfied,"25,000 to 39,999",$20000-22499,50,Working fulltime,NAP,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,586,18-29
+33,13,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$12500-14999,40,Working fulltime,NAP,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,587,30-39
+50,12,Female,High school,A little dissatisfied,Not very satisfied,"25,000 to 39,999",$30000-34999,40,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,588,50+
+46,14,Male,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$25000-29999,40,Working fulltime,FOURTH,Somewhat important,Yes,yes,40,yes,48,589,40-49
+60,13,Male,Junior college,Very satisfied,Very satisfied,"40,000 to 59,999",$25000-29999,40,Working fulltime,FOURTH,Very important,Yes,yes,40,yes,40,590,50+
+29,16,Female,Bachelor,Very satisfied,Very satisfied,"25,000 to 39,999",$25000-29999,52,Working fulltime,THIRD,Not too important,No,#NULL!,#NULL!,#NULL!,#NULL!,591,18-29
+28,17,Male,High school,Mod satisfied,Not very satisfied,"60,000 or more",$25000-29999,75,Working fulltime,FOURTH,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,592,18-29
+29,16,Male,Bachelor,Very satisfied,Very satisfied,"25,000 to 39,999",$30000-34999,40,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,593,18-29
+46,14,Female,Junior college,Very satisfied,Very satisfied,"60,000 or more",$15000-17499,40,Working fulltime,SECOND,One of most important,Yes,yes,40,yes,40,594,40-49
+47,16,Female,Bachelor,Very satisfied,Very satisfied,"60,000 or more",$22500-24999,5,Working fulltime,SECOND,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,595,40-49
+36,8,Male,Less than HS,Very satisfied,Very satisfied,"24,999 or less",$12500-14999,48,Working fulltime,NAP,Very important,Yes,yes,48,yes,40,596,30-39
+37,10,Male,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$22500-24999,40,Working fulltime,MOST IMPT,Very important,Yes,yes,40,yes,40,597,30-39
+25,13,Female,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$22500-24999,43,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,598,18-29
+40,18,Male,Graduate,Very satisfied,Very satisfied,"60,000 or more",$50000-59999,80,Working fulltime,MOST IMPT,Very important,Yes,yes,80,yes,40,599,40-49
+33,13,Female,High school,A little dissatisfied,Not very satisfied,"24,999 or less",$17500-19999,8,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,600,30-39
+39,12,Female,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$35000-39999,72,Working fulltime,MOST IMPT,Very important,Yes,yes,40,yes,72,601,30-39
+33,14,Female,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$12500-14999,40,Working fulltime,MOST IMPT,Very important,Yes,yes,40,yes,40,602,30-39
+26,12,Male,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$22500-24999,58,Working fulltime,THIRD,Very important,Yes,yes,58,yes,40,603,18-29
+28,12,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$20000-22499,40,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,604,18-29
+29,15,Female,High school,Very satisfied,Very satisfied,"24,999 or less",NAP,55,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,605,18-29
+33,16,Male,Bachelor,A little dissatisfied,Not very satisfied,"25,000 to 39,999",$25000-29999,40,Working fulltime,MOST IMPT,Very important,No,yes,#NULL!,no,#NULL!,606,30-39
+35,17,Male,Graduate,Very satisfied,Very satisfied,"25,000 to 39,999",$25000-29999,50,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,607,30-39
+49,15,Female,High school,Very satisfied,Very satisfied,"60,000 or more",REFUSED,45,Working fulltime,THIRD,Very important,Yes,yes,45,yes,45,608,40-49
+35,9,Male,High school,A little dissatisfied,Not very satisfied,"25,000 to 39,999",$25000-29999,50,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,609,30-39
+46,14,Male,Junior college,A little dissatisfied,Not very satisfied,"60,000 or more",REFUSED,58,Working fulltime,SECOND,Very important,Yes,yes,58,yes,40,610,40-49
+42,11,Male,Less than HS,Mod satisfied,Not very satisfied,"24,999 or less",$6000-6999,40,Working fulltime,NAP,Very important,No,yes,#NULL!,no,#NULL!,611,40-49
+23,14,Male,High school,Very satisfied,Very satisfied,"24,999 or less",$20000-22499,50,Working fulltime,FOURTH,Very important,No,yes,#NULL!,no,#NULL!,612,18-29
+37,13,Male,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$17500-19999,80,Working fulltime,NAP,Very important,Yes,yes,80,yes,80,613,30-39
+34,14,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$30000-34999,40,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,614,30-39
+26,14,Male,High school,A little dissatisfied,Not very satisfied,"40,000 to 59,999",$20000-22499,50,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,615,18-29
+31,20,Male,Graduate,Very satisfied,Very satisfied,"60,000 or more",$75000+,89,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,616,30-39
+53,18,Female,Graduate,Very satisfied,Very satisfied,"60,000 or more",$40000-49999,40,Working fulltime,SECOND,Very important,Yes,yes,45,yes,40,617,50+
+25,12,Male,High school,Mod satisfied,Not very satisfied,"24,999 or less",$17500-19999,43,Working fulltime,FOURTH,Very important,Yes,yes,43,yes,40,618,18-29
+37,13,Female,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$20000-22499,40,Working fulltime,NAP,Very important,Yes,yes,45,yes,40,619,30-39
+58,14,Male,High school,Very satisfied,Very satisfied,"24,999 or less",$15000-17499,65,Working fulltime,MOST IMPT,One of most important,No,yes,#NULL!,no,#NULL!,620,50+
+25,16,Female,Bachelor,Very satisfied,Very satisfied,"60,000 or more",$15000-17499,50,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,621,18-29
+33,10,Male,Less than HS,Very satisfied,Very satisfied,"25,000 to 39,999",$22500-24999,55,Working fulltime,FOURTH,One of most important,Yes,yes,55,yes,40,622,30-39
+41,15,Female,High school,Very satisfied,Very satisfied,"60,000 or more",$50000-59999,48,Working fulltime,THIRD,Somewhat important,Yes,yes,72,yes,48,623,40-49
+30,12,Male,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$12500-14999,40,Working fulltime,FOURTH,Somewhat important,No,yes,40,no,25,624,30-39
+59,12,Male,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$20000-22499,70,Working fulltime,MOST IMPT,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,625,50+
+33,14,Male,High school,Mod satisfied,Not very satisfied,"24,999 or less",$20000-22499,60,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,626,30-39
+46,20,Female,Graduate,Mod satisfied,Not very satisfied,"40,000 to 59,999",$50000-59999,60,Working fulltime,FIFTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,627,40-49
+25,17,Male,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$20000-22499,45,Working fulltime,THIRD,Very important,Yes,yes,45,yes,40,628,18-29
+36,16,Male,Bachelor,Mod satisfied,Not very satisfied,"60,000 or more",$60000-74999,70,Working fulltime,NAP,Very important,Yes,yes,70,yes,40,629,30-39
+47,12,Male,High school,Mod satisfied,Not very satisfied,"24,999 or less",$20000-22499,55,Working fulltime,NA,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,630,40-49
+28,10,Male,Less than HS,Mod satisfied,Not very satisfied,"24,999 or less",$10000-12499,40,Working fulltime,NA,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,631,18-29
+28,12,Female,High school,Very satisfied,Very satisfied,"24,999 or less",$6000-6999,40,Working fulltime,NAP,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,632,18-29
+40,12,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$17500-19999,40,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,633,40-49
+35,15,Male,High school,Very satisfied,Very satisfied,"24,999 or less",$4000-4999,50,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,634,30-39
+63,16,Female,Bachelor,Very dissatisfied,Not very satisfied,"25,000 to 39,999",$30000-34999,40,Working fulltime,NAP,Very important,No,no,30,yes,40,635,50+
+49,14,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$15000-17499,40,Working fulltime,NAP,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,636,40-49
+35,14,Male,Junior college,Mod satisfied,Not very satisfied,"24,999 or less",$20000-22499,50,Working fulltime,MOST IMPT,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,637,30-39
+32,16,Male,High school,Very satisfied,Very satisfied,"24,999 or less",$8000-9999,42,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,638,30-39
+42,19,Female,Graduate,Mod satisfied,Not very satisfied,"25,000 to 39,999",$20000-22499,34,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,639,40-49
+40,15,Male,High school,Mod satisfied,Not very satisfied,"60,000 or more",REFUSED,60,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,640,40-49
+38,13,Male,High school,Mod satisfied,Not very satisfied,"24,999 or less",$12500-14999,48,Working fulltime,NAP,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,641,30-39
+23,13,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$5000-5999,30,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,642,18-29
+30,12,Male,High school,Very dissatisfied,Not very satisfied,"24,999 or less",$10000-12499,40,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,643,30-39
+29,12,Female,High school,A little dissatisfied,Not very satisfied,"24,999 or less",$17500-19999,50,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,644,18-29
+37,13,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$12500-14999,56,Working fulltime,SECOND,Not too important,No,#NULL!,#NULL!,#NULL!,#NULL!,645,30-39
+40,12,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$17500-19999,50,Working fulltime,MOST IMPT,Very important,Yes,yes,50,yes,40,646,40-49
+29,12,Female,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$22500-24999,40,Working fulltime,SECOND,Very important,Yes,yes,65,yes,40,647,18-29
+59,12,Male,High school,A little dissatisfied,Not very satisfied,"25,000 to 39,999",$20000-22499,40,Working fulltime,FOURTH,Very important,Yes,yes,40,yes,40,648,50+
+28,18,Male,Graduate,Very satisfied,Very satisfied,"24,999 or less",NAP,40,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,649,18-29
+35,18,Female,Bachelor,Mod satisfied,Not very satisfied,"25,000 to 39,999",$35000-39999,60,Working fulltime,NAP,Very important,No,no,#NULL!,yes,#NULL!,650,30-39
+50,18,Female,Graduate,Very satisfied,Very satisfied,"60,000 or more",$22500-24999,35,Working fulltime,THIRD,One of most important,Yes,yes,50,yes,35,651,50+
+43,16,Male,Bachelor,Mod satisfied,Not very satisfied,"25,000 to 39,999",$30000-34999,40,Working fulltime,FIFTH,Very important,Yes,yes,40,yes,41,652,40-49
+39,13,Female,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$10000-12499,65,Working fulltime,THIRD,Very important,Yes,yes,48,yes,65,653,30-39
+43,18,Female,Bachelor,Mod satisfied,Not very satisfied,"24,999 or less",$12500-14999,30,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,654,40-49
+34,18,Male,Bachelor,Very satisfied,Very satisfied,"40,000 to 59,999",$25000-29999,60,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,655,30-39
+57,11,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$10000-12499,40,Working fulltime,SECOND,Not too important,Yes,yes,40,yes,40,656,50+
+48,14,Male,High school,Mod satisfied,Not very satisfied,"60,000 or more",REFUSED,40,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,657,40-49
+28,16,Male,Bachelor,Mod satisfied,Not very satisfied,"40,000 to 59,999",$15000-17499,35,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,658,18-29
+42,18,Female,Graduate,Mod satisfied,Not very satisfied,"40,000 to 59,999",$50000-59999,40,Working fulltime,THIRD,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,659,40-49
+57,20,Male,Bachelor,Very satisfied,Very satisfied,"60,000 or more",$75000+,70,Working fulltime,NAP,Very important,No,yes,70,no,35,660,50+
+55,12,Male,High school,Very satisfied,Very satisfied,"24,999 or less",$12500-14999,80,Working fulltime,NAP,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,661,50+
+35,12,Female,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$17500-19999,55,Working fulltime,SECOND,Not too important,Yes,yes,70,yes,55,662,30-39
+55,16,Female,High school,Very satisfied,Very satisfied,"24,999 or less",NAP,40,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,663,50+
+34,12,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$25000-29999,65,Working fulltime,NAP,One of most important,No,yes,#NULL!,no,#NULL!,664,30-39
+21,13,Male,Less than HS,Very satisfied,Very satisfied,"25,000 to 39,999",$25000-29999,45,Working fulltime,FOURTH,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,665,18-29
+32,17,Female,Bachelor,Mod satisfied,Not very satisfied,"24,999 or less",$10000-12499,30,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,666,30-39
+28,13,Male,High school,A little dissatisfied,Not very satisfied,"25,000 to 39,999",$30000-34999,40,Working fulltime,NAP,Not too important,No,#NULL!,#NULL!,#NULL!,#NULL!,667,18-29
+24,12,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",NAP,45,Working fulltime,NAP,Somewhat important,Yes,yes,45,yes,45,668,18-29
+42,14,Female,High school,Very satisfied,Very satisfied,"60,000 or more",$50000-59999,40,Working fulltime,MOST IMPT,Very important,Yes,yes,40,yes,40,669,40-49
+20,12,Male,High school,Mod satisfied,Not very satisfied,"60,000 or more",NAP,16,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,670,18-29
+57,17,Male,Bachelor,A little dissatisfied,Not very satisfied,"60,000 or more",$60000-74999,60,Working fulltime,THIRD,One of most important,Yes,yes,60,yes,40,671,50+
+53,14,Male,Junior college,A little dissatisfied,Not very satisfied,"60,000 or more",$60000-74999,70,Working fulltime,FOURTH,One of most important,No,yes,#NULL!,no,#NULL!,672,50+
+42,16,Male,Bachelor,Very satisfied,Very satisfied,"40,000 to 59,999",$50000-59999,44,Working fulltime,SECOND,Very important,No,yes,#NULL!,no,#NULL!,673,40-49
+60,13,Male,High school,Mod satisfied,Not very satisfied,"60,000 or more",$40000-49999,60,Working fulltime,SECOND,Very important,Yes,yes,60,yes,40,674,50+
+48,16,Female,Bachelor,A little dissatisfied,Not very satisfied,"25,000 to 39,999",$25000-29999,40,Working fulltime,FOURTH,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,675,40-49
+41,16,Male,Bachelor,Very satisfied,Very satisfied,"25,000 to 39,999",$10000-12499,30,Working fulltime,SECOND,Very important,No,yes,30,no,25,676,40-49
+34,14,Male,Junior college,Mod satisfied,Not very satisfied,"25,000 to 39,999",$22500-24999,50,Working fulltime,NAP,Somewhat important,No,yes,50,no,20,677,30-39
+30,17,Male,Graduate,Very satisfied,Very satisfied,"40,000 to 59,999",$25000-29999,40,Working fulltime,FOURTH,Very important,Yes,yes,40,yes,8,678,30-39
+22,12,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",LT $1000,40,Working fulltime,FIFTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,679,18-29
+36,13,Female,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$12500-14999,30,Working fulltime,NAP,Somewhat important,Yes,yes,46,yes,30,680,30-39
+38,12,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$30000-34999,DK,Working fulltime,FIFTH,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,681,30-39
+29,12,Female,High school,A little dissatisfied,Not very satisfied,"24,999 or less",$22500-24999,40,Working fulltime,THIRD,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,682,18-29
+43,16,Male,Bachelor,Mod satisfied,Not very satisfied,"40,000 to 59,999",$22500-24999,30,Working fulltime,NAP,Very important,Yes,yes,30,yes,40,683,40-49
+36,9,Male,Less than HS,Mod satisfied,Not very satisfied,"24,999 or less",$15000-17499,44,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,684,30-39
+46,12,Female,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$30000-34999,40,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,685,40-49
+36,10,Male,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$30000-34999,47,Working fulltime,NAP,Very important,No,yes,#NULL!,no,#NULL!,686,30-39
+46,13,Female,High school,A little dissatisfied,Not very satisfied,"24,999 or less",$12500-14999,40,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,687,40-49
+50,13,Male,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$50000-59999,40,Working fulltime,THIRD,Very important,No,yes,#NULL!,no,#NULL!,688,50+
+24,16,Male,Junior college,Mod satisfied,Not very satisfied,"24,999 or less",$15000-17499,60,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,689,18-29
+24,16,Female,Bachelor,Very satisfied,Very satisfied,"24,999 or less",$20000-22499,45,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,690,18-29
+32,18,Female,Graduate,Very satisfied,Very satisfied,"40,000 to 59,999",NAP,40,Working fulltime,SECOND,Not too important,Yes,yes,40,yes,40,691,30-39
+29,12,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$17500-19999,54,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,692,18-29
+37,15,Female,High school,A little dissatisfied,Not very satisfied,"24,999 or less",$12500-14999,45,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,693,30-39
+37,17,Female,Bachelor,Mod satisfied,Not very satisfied,"25,000 to 39,999",$3000-3999,NA,Working fulltime,THIRD,Somewhat important,Yes,yes,#NULL!,yes,#NULL!,694,30-39
+46,12,Male,High school,Mod satisfied,Not very satisfied,"24,999 or less",$22500-24999,40,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,695,40-49
+29,12,Male,High school,Mod satisfied,Not very satisfied,"24,999 or less",$8000-9999,32,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,696,18-29
+39,16,Male,Bachelor,Very satisfied,Very satisfied,"25,000 to 39,999",$30000-34999,40,Working fulltime,NAP,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,697,30-39
+31,15,Male,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$30000-34999,50,Working fulltime,NAP,Very important,No,yes,50,no,22,698,30-39
+31,13,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$10000-12499,40,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,699,30-39
+55,16,Male,Bachelor,Mod satisfied,Not very satisfied,"60,000 or more",$40000-49999,40,Working fulltime,THIRD,One of most important,Yes,yes,40,yes,40,700,50+
+28,12,Male,High school,Mod satisfied,Not very satisfied,"24,999 or less",$17500-19999,40,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,701,18-29
+30,14,Female,Junior college,Very satisfied,Very satisfied,"24,999 or less",$17500-19999,45,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,702,30-39
+62,18,Female,Graduate,Very satisfied,Very satisfied,"60,000 or more",$40000-49999,60,Working fulltime,NA,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,703,50+
+47,12,Male,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$30000-34999,40,Working fulltime,NAP,One of most important,No,yes,#NULL!,no,#NULL!,704,40-49
+51,12,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$7000-7999,40,Working fulltime,MOST IMPT,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,705,50+
+35,12,Female,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$3000-3999,40,Working fulltime,FOURTH,Very important,Yes,yes,50,yes,40,706,30-39
+40,12,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$7000-7999,48,Working fulltime,NAP,Very important,No,no,#NULL!,yes,#NULL!,707,40-49
+38,10,Male,Less than HS,Mod satisfied,Not very satisfied,"24,999 or less",$17500-19999,65,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,708,30-39
+47,14,Female,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$35000-39999,40,Working fulltime,THIRD,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,709,40-49
+36,18,Female,Graduate,Very satisfied,Very satisfied,"25,000 to 39,999",$35000-39999,40,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,710,30-39
+54,11,Male,Less than HS,Very satisfied,Very satisfied,"40,000 to 59,999",$30000-34999,48,Working fulltime,MOST IMPT,One of most important,No,yes,#NULL!,no,#NULL!,711,50+
+62,8,Male,Less than HS,Mod satisfied,Not very satisfied,"24,999 or less",$12500-14999,45,Working fulltime,FIFTH,Very important,No,yes,#NULL!,no,#NULL!,712,50+
+62,7,Male,Less than HS,Very satisfied,Very satisfied,"24,999 or less",$17500-19999,50,Working fulltime,THIRD,Very important,No,yes,#NULL!,no,#NULL!,713,50+
+20,12,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$8000-9999,42,Working fulltime,NAP,Somewhat important,No,#NULL!,#NULL!,#NULL!,#NULL!,714,18-29
+33,9,Male,High school,Very satisfied,Very satisfied,"24,999 or less",$10000-12499,40,Working fulltime,NAP,Very important,Yes,yes,40,yes,40,715,30-39
+38,8,Female,Less than HS,Very satisfied,Very satisfied,"40,000 to 59,999",NAP,44,Working fulltime,FOURTH,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,716,30-39
+39,12,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$12500-14999,45,Working fulltime,MOST IMPT,Very important,Yes,yes,45,yes,45,717,30-39
+54,16,Female,Bachelor,Very satisfied,Very satisfied,"40,000 to 59,999",$40000-49999,50,Working fulltime,FOURTH,One of most important,Yes,yes,40,yes,50,718,50+
+49,12,Male,High school,Very satisfied,Very satisfied,"60,000 or more",$30000-34999,42,Working fulltime,SECOND,Somewhat important,Yes,yes,42,yes,40,719,40-49
+44,18,Male,Graduate,Very satisfied,Very satisfied,"60,000 or more",$40000-49999,60,Working fulltime,SECOND,Very important,Yes,yes,60,yes,40,720,40-49
+51,6,Male,Less than HS,Mod satisfied,Not very satisfied,"24,999 or less",$10000-12499,40,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,721,50+
+41,12,Male,High school,Mod satisfied,Not very satisfied,"60,000 or more",$50000-59999,50,Working fulltime,THIRD,Very important,Yes,yes,50,yes,40,722,40-49
+30,12,Female,High school,A little dissatisfied,Not very satisfied,"24,999 or less",$22500-24999,48,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,723,30-39
+31,14,Female,Junior college,Very satisfied,Very satisfied,"40,000 to 59,999",$15000-17499,32,Working fulltime,NAP,Somewhat important,Yes,yes,58,yes,32,724,30-39
+61,12,Male,High school,Very satisfied,Very satisfied,"40,000 to 59,999",$50000-59999,45,Working fulltime,THIRD,Very important,No,yes,#NULL!,no,#NULL!,725,50+
+42,12,Female,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$12500-14999,44,Working fulltime,SECOND,Very important,Yes,yes,50,yes,44,726,40-49
+23,16,Female,Bachelor,Very satisfied,Very satisfied,"24,999 or less",$6000-6999,55,Working fulltime,FIFTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,727,18-29
+37,16,Male,Bachelor,Mod satisfied,Not very satisfied,"60,000 or more",$40000-49999,55,Working fulltime,THIRD,Very important,Yes,yes,55,yes,40,728,30-39
+75,8,Male,Less than HS,Mod satisfied,Not very satisfied,"24,999 or less",$5000-5999,40,Working fulltime,THIRD,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,729,50+
+26,17,Female,Bachelor,Mod satisfied,Not very satisfied,"24,999 or less",$12500-14999,50,Working fulltime,SECOND,Very important,Yes,yes,65,yes,50,730,18-29
+44,12,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",$10000-12499,40,Working fulltime,MOST IMPT,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,731,40-49
+38,12,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",NAP,37,Working fulltime,THIRD,Somewhat important,Yes,yes,60,yes,37,732,30-39
+26,12,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$17500-19999,45,Working fulltime,THIRD,Very important,Yes,yes,45,yes,30,733,18-29
+30,12,Female,High school,Mod satisfied,Not very satisfied,"24,999 or less",NAP,41,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,734,30-39
+50,12,Male,High school,Very satisfied,Very satisfied,"25,000 to 39,999",$25000-29999,24,Working fulltime,SECOND,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,735,50+
+47,12,Female,High school,Mod satisfied,Not very satisfied,"40,000 to 59,999",$22500-24999,40,Working fulltime,NAP,One of most important,Yes,yes,65,yes,40,736,40-49
+58,18,Male,Graduate,Very satisfied,Very satisfied,"60,000 or more",$40000-49999,45,Working fulltime,SECOND,Somewhat important,No,yes,#NULL!,no,#NULL!,737,50+
+23,16,Female,High school,Very satisfied,Very satisfied,"24,999 or less",NAP,40,Working fulltime,NAP,One of most important,No,#NULL!,#NULL!,#NULL!,#NULL!,738,18-29
+25,17,Female,Junior college,Mod satisfied,Not very satisfied,"24,999 or less",$20000-22499,40,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,739,18-29
+33,17,Male,Bachelor,Mod satisfied,Not very satisfied,"24,999 or less",$22500-24999,50,Working fulltime,THIRD,Very important,No,yes,#NULL!,no,#NULL!,740,30-39
+41,14,Female,High school,Very satisfied,Very satisfied,"60,000 or more",$35000-39999,48,Working fulltime,SECOND,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,741,40-49
+38,15,Female,Junior college,Mod satisfied,Not very satisfied,"60,000 or more",$20000-22499,30,Working fulltime,NAP,Very important,Yes,yes,40,yes,30,742,30-39
+48,12,Female,High school,Mod satisfied,Not very satisfied,"60,000 or more",$25000-29999,38,Working fulltime,FOURTH,Somewhat important,Yes,yes,46,yes,38,743,40-49
+47,12,Female,High school,Mod satisfied,Not very satisfied,"25,000 to 39,999",$25000-29999,38,Working fulltime,NAP,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,744,40-49
+28,17,Male,Graduate,Mod satisfied,Not very satisfied,"60,000 or more",$40000-49999,60,Working fulltime,FIFTH,Somewhat important,Yes,yes,60,yes,40,745,18-29
+53,20,Male,Graduate,Very satisfied,Very satisfied,"40,000 to 59,999",$40000-49999,50,Working fulltime,FOURTH,Very important,No,#NULL!,#NULL!,#NULL!,#NULL!,746,50+
+35,17,Male,Bachelor,Very satisfied,Very satisfied,"40,000 to 59,999",$40000-49999,40,Working fulltime,THIRD,Very important,No,yes,#NULL!,no,#NULL!,747,30-39

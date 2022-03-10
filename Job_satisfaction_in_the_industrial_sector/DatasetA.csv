@@ -1,0 +1,717 @@
+rincom91,age,educ,hrs1,sex,degree,satjob,impjob,agecat4
+Over 25K,43.0,11,35.0,Male,High school,Mod satisfied,Very important,40-49
+Over 25K,44.0,16,21.0,Male,Bachelor,Very dissatisfied,Very important,40-49
+Over 25K,43.0,16,45.0,Female,Bachelor,Very satisfied,One of most important,40-49
+Over 25K,55.0,12,35.0,Female,High school,Very satisfied,Very important,50+
+Over 25K,31.0,18,50.0,Male,Graduate,Very satisfied,Very important,30-39
+Over 25K,29.0,18,35.0,Female,Graduate,Mod satisfied,One of most important,18-29
+Under 25K,23.0,15,60.0,Female,High school,Mod satisfied,One of most important,18-29
+Under 25K,61.0,12,40.0,Female,High school,Mod satisfied,One of most important,50+
+Under 25K,36.0,14,37.0,Female,High school,A little dissatisfied,Very important,30-39
+Under 25K,55.0,16,38.0,Female,Bachelor,A little dissatisfied,Very important,50+
+Over 25K,34.0,16,55.0,Male,Bachelor,Mod satisfied,Very important,30-39
+Under 25K,32.0,16,32.0,Male,Bachelor,Mod satisfied,Very important,30-39
+Over 25K,49.0,16,80.0,Female,Bachelor,Mod satisfied,One of most important,40-49
+Over 25K,45.0,16,50.0,Female,Bachelor,Mod satisfied,Very important,40-49
+Under 25K,36.0,18,40.0,Female,Bachelor,Mod satisfied,Very important,30-39
+Over 25K,29.0,16,50.0,Male,Graduate,Mod satisfied,Very important,18-29
+Over 25K,30.0,14,40.0,Female,Junior college,Mod satisfied,Not too important,30-39
+Over 25K,40.0,16,60.0,Female,Bachelor,A little dissatisfied,One of most important,40-49
+Under 25K,26.0,11,35.0,Female,Less than HS,Mod satisfied,Very important,18-29
+Under 25K,63.0,12,40.0,Female,High school,A little dissatisfied,Very important,50+
+Over 25K,33.0,14,40.0,Female,High school,Very satisfied,One of most important,30-39
+Under 25K,34.0,12,40.0,Male,High school,Mod satisfied,Very important,30-39
+Under 25K,61.0,16,89.0,Female,Bachelor,Very satisfied,One of most important,50+
+Over 25K,45.0,13,40.0,Female,High school,Very satisfied,Very important,40-49
+Over 25K,31.0,14,60.0,Male,High school,Very satisfied,Very important,30-39
+Over 25K,28.0,18,40.0,Male,Graduate,Mod satisfied,One of most important,18-29
+Over 25K,34.0,18,40.0,Female,Graduate,Mod satisfied,Very important,30-39
+Over 25K,45.0,13,20.0,Female,High school,Very satisfied,Very important,40-49
+Over 25K,35.0,16,40.0,Female,Bachelor,Very satisfied,Somewhat important,30-39
+Over 25K,48.0,16,20.0,Male,Bachelor,Very satisfied,Very important,40-49
+Over 25K,39.0,19,40.0,Male,Graduate,Mod satisfied,One of most important,30-39
+Under 25K,27.0,15,62.0,Female,High school,A little dissatisfied,Very important,18-29
+Under 25K,36.0,12,20.0,Male,High school,Mod satisfied,Very important,30-39
+Over 25K,42.0,12,50.0,Female,High school,Very satisfied,One of most important,40-49
+Under 25K,31.0,16,40.0,Female,Bachelor,Mod satisfied,Very important,30-39
+Under 25K,44.0,16,40.0,Female,Bachelor,Mod satisfied,One of most important,40-49
+Under 25K,39.0,12,40.0,Male,High school,Mod satisfied,One of most important,30-39
+Over 25K,39.0,15,50.0,Female,High school,Very satisfied,One of most important,30-39
+Over 25K,45.0,14,22.0,Male,High school,Mod satisfied,One of most important,40-49
+Over 25K,46.0,20,50.0,Male,Graduate,Mod satisfied,One of most important,40-49
+Over 25K,23.0,16,60.0,Female,Bachelor,Mod satisfied,One of most important,18-29
+Over 25K,27.0,13,55.0,Male,High school,Very satisfied,One of most important,18-29
+Under 25K,23.0,16,35.0,Female,Bachelor,A little dissatisfied,Very important,18-29
+Under 25K,31.0,16,56.0,Male,Bachelor,Very satisfied,One of most important,30-39
+Under 25K,29.0,14,40.0,Female,Junior college,Mod satisfied,Somewhat important,18-29
+Over 25K,35.0,16,50.0,Male,Bachelor,Very satisfied,Somewhat important,30-39
+Over 25K,36.0,14,54.0,Male,High school,Mod satisfied,Very important,30-39
+Over 25K,41.0,12,32.0,Male,High school,Mod satisfied,Somewhat important,40-49
+Under 25K,62.0,18,55.0,Female,Bachelor,Mod satisfied,Very important,50+
+Over 25K,44.0,12,55.0,Male,High school,Mod satisfied,One of most important,40-49
+Over 25K,49.0,15,50.0,Male,High school,Mod satisfied,Very important,40-49
+Over 25K,62.0,12,38.0,Female,High school,Mod satisfied,Somewhat important,50+
+Over 25K,45.0,18,50.0,Male,Graduate,Mod satisfied,Very important,40-49
+Over 25K,31.0,16,45.0,Male,Bachelor,Mod satisfied,Somewhat important,30-39
+Over 25K,45.0,15,50.0,Male,High school,Mod satisfied,Somewhat important,40-49
+Over 25K,27.0,16,80.0,Male,Bachelor,Very satisfied,One of most important,18-29
+Over 25K,28.0,13,56.0,Male,High school,Mod satisfied,One of most important,18-29
+Over 25K,43.0,12,50.0,Male,High school,Mod satisfied,Somewhat important,40-49
+Over 25K,28.0,16,55.0,Male,Bachelor,Mod satisfied,Somewhat important,18-29
+Under 25K,24.0,12,55.0,Female,High school,Very satisfied,Very important,18-29
+Over 25K,51.0,19,40.0,Male,Graduate,Very satisfied,Very important,50+
+Over 25K,57.0,17,60.0,Male,Bachelor,Mod satisfied,Very important,50+
+Over 25K,72.0,16,40.0,Male,Bachelor,A little dissatisfied,Very important,50+
+Over 25K,32.0,18,50.0,Male,Graduate,Mod satisfied,Very important,30-39
+Over 25K,50.0,15,40.0,Male,Junior college,Very satisfied,Very important,50+
+Under 25K,43.0,6,50.0,Male,Less than HS,A little dissatisfied,Very important,40-49
+Over 25K,60.0,13,50.0,Male,High school,Very satisfied,Very important,50+
+Over 25K,27.0,15,55.0,Male,High school,Mod satisfied,Very important,18-29
+Over 25K,45.0,12,40.0,Female,High school,A little dissatisfied,Somewhat important,40-49
+Over 25K,51.0,16,65.0,Male,Bachelor,Mod satisfied,Somewhat important,50+
+Over 25K,38.0,16,40.0,Male,Bachelor,Very satisfied,Very important,30-39
+Over 25K,44.0,20,55.0,Male,Graduate,Very satisfied,One of most important,40-49
+Over 25K,40.0,18,55.0,Male,Graduate,Mod satisfied,Very important,40-49
+Over 25K,51.0,12,60.0,Male,High school,Very satisfied,Very important,50+
+Over 25K,59.0,20,67.0,Male,Graduate,Very satisfied,Very important,50+
+Over 25K,36.0,12,75.0,Male,High school,Very satisfied,Very important,30-39
+Over 25K,35.0,14,40.0,Male,High school,Mod satisfied,Very important,30-39
+Under 25K,30.0,14,50.0,Female,High school,Very satisfied,Very important,30-39
+Over 25K,33.0,16,45.0,Female,Bachelor,Mod satisfied,Very important,30-39
+Over 25K,56.0,18,40.0,Male,Graduate,A little dissatisfied,Very important,50+
+Over 25K,55.0,20,40.0,Male,Graduate,Very satisfied,Not at all important,50+
+Over 25K,61.0,20,40.0,Female,Graduate,A little dissatisfied,Somewhat important,50+
+Under 25K,34.0,16,51.0,Male,Bachelor,Very satisfied,Very important,30-39
+Over 25K,48.0,16,65.0,Male,Graduate,A little dissatisfied,One of most important,40-49
+Under 25K,43.0,16,42.0,Female,Bachelor,Very satisfied,Very important,40-49
+Over 25K,38.0,12,40.0,Male,High school,Very satisfied,One of most important,30-39
+Under 25K,31.0,12,40.0,Male,High school,Very satisfied,Very important,30-39
+Over 25K,40.0,16,50.0,Male,Bachelor,Mod satisfied,Very important,40-49
+Over 25K,27.0,17,60.0,Male,Bachelor,A little dissatisfied,Very important,18-29
+Over 25K,52.0,16,40.0,Male,Bachelor,Mod satisfied,One of most important,50+
+Over 25K,32.0,12,40.0,Female,High school,Mod satisfied,Very important,30-39
+Under 25K,55.0,13,40.0,Female,High school,Very satisfied,Somewhat important,50+
+Under 25K,53.0,16,40.0,Female,Bachelor,Mod satisfied,One of most important,50+
+Over 25K,30.0,16,40.0,Male,Junior college,Very satisfied,Very important,30-39
+Over 25K,34.0,12,40.0,Male,High school,Very satisfied,Very important,30-39
+Under 25K,43.0,16,38.0,Female,Bachelor,Very satisfied,Very important,40-49
+Under 25K,37.0,19,46.0,Male,Graduate,A little dissatisfied,One of most important,30-39
+Under 25K,42.0,12,40.0,Female,High school,Very satisfied,Very important,40-49
+Over 25K,66.0,20,50.0,Male,Graduate,Very satisfied,Very important,50+
+Over 25K,57.0,14,40.0,Female,Junior college,Very satisfied,Very important,50+
+Under 25K,57.0,18,40.0,Female,Graduate,Very satisfied,One of most important,50+
+Over 25K,36.0,17,40.0,Male,Bachelor,Very satisfied,Very important,30-39
+Over 25K,39.0,17,60.0,Male,Bachelor,Very satisfied,Very important,30-39
+Over 25K,49.0,14,40.0,Female,High school,Very satisfied,One of most important,40-49
+Under 25K,51.0,13,40.0,Female,High school,Mod satisfied,Very important,50+
+Over 25K,53.0,18,50.0,Male,Graduate,Very satisfied,One of most important,50+
+Under 25K,41.0,13,40.0,Female,High school,Mod satisfied,Somewhat important,40-49
+Under 25K,38.0,11,32.0,Male,Less than HS,Very dissatisfied,One of most important,30-39
+Under 25K,59.0,12,40.0,Female,High school,Mod satisfied,One of most important,50+
+Over 25K,33.0,14,40.0,Female,High school,Very dissatisfied,Very important,30-39
+Over 25K,50.0,12,40.0,Male,High school,Very satisfied,One of most important,50+
+Over 25K,51.0,14,40.0,Female,High school,Mod satisfied,Somewhat important,50+
+Over 25K,60.0,12,40.0,Female,High school,Mod satisfied,Very important,50+
+Over 25K,41.0,17,52.0,Female,Bachelor,Mod satisfied,One of most important,40-49
+Over 25K,57.0,12,40.0,Male,High school,Very satisfied,One of most important,50+
+Over 25K,47.0,12,55.0,Female,High school,Mod satisfied,Very important,40-49
+Under 25K,35.0,19,60.0,Male,Graduate,Very satisfied,Very important,30-39
+Over 25K,37.0,14,48.0,Male,Junior college,Very satisfied,Somewhat important,30-39
+Over 25K,27.0,14,60.0,Female,High school,Very satisfied,Very important,18-29
+Over 25K,27.0,16,40.0,Female,Bachelor,Mod satisfied,Very important,18-29
+Over 25K,50.0,14,65.0,Male,Junior college,Mod satisfied,One of most important,50+
+Over 25K,28.0,16,40.0,Male,Bachelor,Very dissatisfied,Very important,18-29
+Under 25K,31.0,16,40.0,Male,Bachelor,Very dissatisfied,One of most important,30-39
+Over 25K,51.0,12,46.0,Male,High school,Very satisfied,Very important,50+
+Under 25K,41.0,11,40.0,Male,Less than HS,Mod satisfied,One of most important,40-49
+Under 25K,26.0,15,40.0,Male,High school,Mod satisfied,One of most important,18-29
+Over 25K,43.0,16,40.0,Male,Bachelor,Mod satisfied,One of most important,40-49
+Over 25K,44.0,16,40.0,Male,Bachelor,Very satisfied,Very important,40-49
+Over 25K,39.0,15,50.0,Male,High school,Very satisfied,Somewhat important,30-39
+Over 25K,54.0,16,40.0,Female,Bachelor,Very satisfied,Very important,50+
+Over 25K,47.0,14,40.0,Female,High school,Very satisfied,Very important,40-49
+Under 25K,37.0,12,40.0,Female,High school,Mod satisfied,One of most important,30-39
+Under 25K,52.0,9,59.0,Female,Less than HS,A little dissatisfied,Not too important,50+
+Under 25K,54.0,12,40.0,Female,High school,Mod satisfied,One of most important,50+
+Over 25K,24.0,12,44.0,Female,High school,Mod satisfied,Very important,18-29
+Over 25K,43.0,13,45.0,Male,High school,Very satisfied,Very important,40-49
+Over 25K,41.0,15,40.0,Male,High school,Mod satisfied,One of most important,40-49
+Under 25K,41.0,12,40.0,Female,High school,Very satisfied,Very important,40-49
+Under 25K,46.0,12,40.0,Female,High school,Very dissatisfied,Very important,40-49
+Over 25K,33.0,16,45.0,Male,Bachelor,Very satisfied,Very important,30-39
+Under 25K,33.0,14,80.0,Female,Junior college,Very satisfied,Very important,30-39
+Under 25K,45.0,12,40.0,Female,High school,Mod satisfied,Very important,40-49
+Under 25K,24.0,16,40.0,Male,Bachelor,Mod satisfied,Very important,18-29
+Over 25K,45.0,12,44.0,Male,High school,A little dissatisfied,Very important,40-49
+Over 25K,46.0,12,50.0,Female,High school,A little dissatisfied,Somewhat important,40-49
+Over 25K,41.0,20,60.0,Female,Graduate,A little dissatisfied,Very important,40-49
+Over 25K,37.0,18,56.0,Male,Graduate,Mod satisfied,Very important,30-39
+Under 25K,36.0,14,41.0,Female,Junior college,Very satisfied,Very important,30-39
+Over 25K,39.0,16,40.0,Female,Bachelor,Mod satisfied,Very important,30-39
+Over 25K,44.0,14,40.0,Male,Junior college,Mod satisfied,Very important,40-49
+Over 25K,35.0,19,45.0,Female,Graduate,Very satisfied,Very important,30-39
+Over 25K,26.0,13,52.0,Male,High school,Mod satisfied,Somewhat important,18-29
+Under 25K,48.0,12,42.0,Female,High school,Very satisfied,One of most important,40-49
+Under 25K,26.0,12,30.0,Male,High school,Very satisfied,Very important,18-29
+Over 25K,36.0,12,44.0,Male,High school,A little dissatisfied,Not too important,30-39
+Over 25K,43.0,12,46.0,Male,High school,Very satisfied,Very important,40-49
+Over 25K,41.0,16,40.0,Female,Bachelor,Mod satisfied,Very important,40-49
+Over 25K,47.0,18,65.0,Male,Graduate,Very dissatisfied,Somewhat important,40-49
+Over 25K,49.0,13,40.0,Male,High school,Mod satisfied,Very important,40-49
+Over 25K,58.0,12,55.0,Male,High school,Very satisfied,Very important,50+
+Under 25K,19.0,12,40.0,Female,High school,Very satisfied,One of most important,18-29
+Under 25K,35.0,12,49.0,Male,High school,Very satisfied,Very important,30-39
+Over 25K,42.0,15,40.0,Male,Junior college,A little dissatisfied,Somewhat important,40-49
+Over 25K,54.0,12,40.0,Female,High school,Very satisfied,One of most important,50+
+Over 25K,33.0,16,40.0,Female,Bachelor,Very satisfied,Very important,30-39
+Under 25K,26.0,12,65.0,Male,High school,Mod satisfied,Very important,18-29
+Over 25K,34.0,17,50.0,Male,Bachelor,Very satisfied,Very important,30-39
+Over 25K,43.0,11,42.0,Male,Less than HS,Very satisfied,Very important,40-49
+Over 25K,65.0,14,40.0,Male,Junior college,Mod satisfied,Very important,50+
+Under 25K,22.0,15,30.0,Female,High school,Mod satisfied,One of most important,18-29
+Over 25K,33.0,12,50.0,Male,High school,Mod satisfied,Very important,30-39
+Over 25K,40.0,12,55.0,Male,Less than HS,Mod satisfied,Very important,40-49
+Under 25K,25.0,16,48.0,Male,Bachelor,Mod satisfied,Very important,18-29
+Under 25K,51.0,12,55.0,Male,High school,Very satisfied,One of most important,50+
+Over 25K,40.0,12,40.0,Female,High school,Very satisfied,One of most important,40-49
+Over 25K,43.0,10,56.0,Male,Less than HS,Very satisfied,Very important,40-49
+Over 25K,46.0,12,50.0,Male,High school,Mod satisfied,One of most important,40-49
+Over 25K,37.0,12,60.0,Male,High school,Very satisfied,One of most important,30-39
+Over 25K,52.0,6,45.0,Male,Less than HS,Very satisfied,Very important,50+
+Under 25K,25.0,12,48.0,Male,High school,Very satisfied,One of most important,18-29
+Over 25K,46.0,12,40.0,Male,High school,Very satisfied,Very important,40-49
+Under 25K,38.0,11,48.0,Male,High school,Very satisfied,Somewhat important,30-39
+Under 25K,23.0,14,40.0,Male,High school,A little dissatisfied,One of most important,18-29
+Over 25K,59.0,16,40.0,Female,Bachelor,Very satisfied,One of most important,50+
+Under 25K,47.0,13,56.0,Male,High school,Mod satisfied,Very important,40-49
+Under 25K,35.0,11,35.0,Male,Less than HS,Very dissatisfied,Very important,30-39
+Under 25K,44.0,12,40.0,Female,High school,Very satisfied,One of most important,40-49
+Under 25K,38.0,14,40.0,Female,Junior college,Very satisfied,Very important,30-39
+Under 25K,36.0,18,40.0,Female,Graduate,Very satisfied,Very important,30-39
+Over 25K,43.0,13,52.0,Male,High school,Very satisfied,Very important,40-49
+Under 25K,25.0,14,50.0,Male,High school,A little dissatisfied,Very important,18-29
+Over 25K,35.0,13,65.0,Male,High school,Very satisfied,One of most important,30-39
+Over 25K,51.0,13,60.0,Female,High school,Very satisfied,One of most important,50+
+Under 25K,58.0,12,40.0,Female,High school,Very satisfied,One of most important,50+
+Under 25K,40.0,12,44.0,Female,High school,Mod satisfied,Very important,40-49
+Under 25K,53.0,13,35.0,Female,High school,Very satisfied,Very important,50+
+Over 25K,38.0,14,40.0,Female,Junior college,Mod satisfied,Very important,30-39
+Under 25K,58.0,12,40.0,Male,High school,Very satisfied,One of most important,50+
+Under 25K,45.0,13,45.0,Female,High school,Mod satisfied,Somewhat important,40-49
+Under 25K,20.0,12,42.0,Male,High school,Mod satisfied,Very important,18-29
+Under 25K,39.0,14,40.0,Male,Junior college,Very satisfied,Very important,30-39
+Under 25K,51.0,0,20.0,Female,Less than HS,Very satisfied,Very important,50+
+Over 25K,78.0,18,40.0,Female,Bachelor,Very satisfied,One of most important,50+
+Under 25K,25.0,12,40.0,Female,High school,A little dissatisfied,Very important,18-29
+Over 25K,36.0,19,42.0,Male,Graduate,Mod satisfied,Very important,30-39
+Under 25K,40.0,12,35.0,Female,High school,Very satisfied,Very important,40-49
+Under 25K,31.0,12,47.0,Female,High school,Mod satisfied,Very important,30-39
+Under 25K,51.0,16,40.0,Female,Bachelor,Very satisfied,Somewhat important,50+
+Under 25K,37.0,17,40.0,Male,Bachelor,Mod satisfied,One of most important,30-39
+Over 25K,47.0,16,60.0,Male,Bachelor,Very dissatisfied,Somewhat important,40-49
+Over 25K,64.0,12,40.0,Male,High school,Very satisfied,Very important,50+
+Under 25K,27.0,14,40.0,Female,Junior college,Mod satisfied,One of most important,18-29
+Under 25K,32.0,20,60.0,Female,Bachelor,Mod satisfied,Very important,30-39
+Over 25K,40.0,20,48.0,Male,Graduate,Very satisfied,One of most important,40-49
+Over 25K,45.0,17,55.0,Female,Bachelor,Very satisfied,One of most important,40-49
+Over 25K,26.0,12,40.0,Female,High school,Very satisfied,Very important,18-29
+Over 25K,46.0,20,60.0,Female,Graduate,Very satisfied,One of most important,40-49
+Under 25K,32.0,18,50.0,Female,Graduate,Mod satisfied,Very important,30-39
+Over 25K,36.0,16,36.0,Male,Bachelor,Very satisfied,Very important,30-39
+Under 25K,30.0,14,40.0,Female,High school,Very dissatisfied,Very important,30-39
+Under 25K,51.0,12,35.0,Female,High school,Mod satisfied,Somewhat important,50+
+Over 25K,40.0,19,45.0,Male,Graduate,Mod satisfied,Very important,40-49
+Over 25K,51.0,16,60.0,Male,Bachelor,Very dissatisfied,Very important,50+
+Under 25K,54.0,16,38.0,Female,Bachelor,Very satisfied,Very important,50+
+Under 25K,27.0,16,40.0,Male,Bachelor,Mod satisfied,Very important,18-29
+Over 25K,63.0,17,45.0,Male,Bachelor,Mod satisfied,Very important,50+
+Over 25K,43.0,18,40.0,Female,Graduate,Very satisfied,One of most important,40-49
+Over 25K,44.0,14,45.0,Female,Junior college,A little dissatisfied,Somewhat important,40-49
+Over 25K,50.0,12,50.0,Male,High school,Very satisfied,Very important,50+
+Under 25K,31.0,14,40.0,Female,High school,A little dissatisfied,One of most important,30-39
+Over 25K,29.0,14,60.0,Male,Junior college,Very satisfied,Very important,18-29
+Under 25K,30.0,11,45.0,Male,High school,Very satisfied,Very important,30-39
+Over 25K,34.0,15,40.0,Male,Junior college,Very dissatisfied,Very important,30-39
+Under 25K,63.0,12,36.0,Female,High school,Mod satisfied,Very important,50+
+Under 25K,55.0,13,40.0,Female,High school,Very satisfied,Very important,50+
+Under 25K,36.0,13,40.0,Male,High school,A little dissatisfied,One of most important,30-39
+Over 25K,39.0,12,55.0,Male,High school,A little dissatisfied,One of most important,30-39
+Under 25K,28.0,19,39.0,Female,Bachelor,Mod satisfied,One of most important,18-29
+Over 25K,46.0,14,45.0,Female,High school,Mod satisfied,Very important,40-49
+Over 25K,39.0,19,35.0,Female,Graduate,Very satisfied,One of most important,30-39
+Over 25K,49.0,17,36.0,Male,Bachelor,Mod satisfied,Very important,40-49
+Over 25K,56.0,18,40.0,Female,Graduate,Mod satisfied,One of most important,50+
+Under 25K,28.0,12,42.0,Male,High school,Very satisfied,Very important,18-29
+Under 25K,24.0,12,57.0,Male,High school,Mod satisfied,Very important,18-29
+Over 25K,37.0,18,50.0,Female,Graduate,Very satisfied,Very important,30-39
+Under 25K,48.0,12,40.0,Female,High school,A little dissatisfied,Somewhat important,40-49
+Under 25K,49.0,15,25.0,Male,Junior college,Mod satisfied,Very important,40-49
+Under 25K,36.0,9,44.0,Male,Less than HS,Mod satisfied,Somewhat important,30-39
+Under 25K,35.0,12,40.0,Male,High school,Mod satisfied,Very important,30-39
+Under 25K,36.0,12,40.0,Female,High school,Mod satisfied,Very important,30-39
+Under 25K,37.0,13,40.0,Female,High school,A little dissatisfied,One of most important,30-39
+Over 25K,55.0,14,40.0,Male,Junior college,Mod satisfied,Very important,50+
+Over 25K,39.0,16,40.0,Male,Bachelor,Mod satisfied,Very important,30-39
+Over 25K,72.0,12,40.0,Male,High school,Very satisfied,Very important,50+
+Under 25K,52.0,18,45.0,Female,Bachelor,A little dissatisfied,Very important,50+
+Over 25K,38.0,13,50.0,Female,High school,Very satisfied,Very important,30-39
+Over 25K,52.0,14,40.0,Male,Junior college,Very satisfied,One of most important,50+
+Under 25K,43.0,13,65.0,Male,High school,Very satisfied,Somewhat important,40-49
+Under 25K,24.0,12,42.0,Male,High school,Mod satisfied,Very important,18-29
+Under 25K,56.0,11,44.0,Female,Less than HS,Very satisfied,Very important,50+
+Under 25K,28.0,14,38.0,Female,Junior college,Mod satisfied,Somewhat important,18-29
+Over 25K,40.0,15,40.0,Male,Junior college,Very satisfied,Very important,40-49
+Under 25K,24.0,9,37.0,Male,Less than HS,Very satisfied,Very important,18-29
+Under 25K,49.0,9,45.0,Male,Less than HS,Mod satisfied,Very important,40-49
+Under 25K,47.0,12,70.0,Male,High school,Mod satisfied,Very important,40-49
+Under 25K,35.0,12,45.0,Female,High school,Very satisfied,Very important,30-39
+Over 25K,35.0,12,50.0,Male,High school,Very satisfied,Very important,30-39
+Under 25K,20.0,12,39.0,Female,High school,Mod satisfied,Very important,18-29
+Under 25K,37.0,14,42.0,Male,Junior college,A little dissatisfied,Very important,30-39
+Under 25K,51.0,15,40.0,Female,High school,Very satisfied,Somewhat important,50+
+Under 25K,44.0,16,60.0,Male,Bachelor,Mod satisfied,Very important,40-49
+Under 25K,28.0,16,40.0,Male,Bachelor,Mod satisfied,Very important,18-29
+Under 25K,37.0,12,32.0,Female,High school,Very satisfied,Very important,30-39
+Under 25K,40.0,12,46.0,Female,High school,Mod satisfied,Very important,40-49
+Under 25K,47.0,12,70.0,Male,High school,Mod satisfied,Very important,40-49
+Over 25K,43.0,14,50.0,Male,High school,Very satisfied,One of most important,40-49
+Over 25K,43.0,16,60.0,Female,Bachelor,Very satisfied,Very important,40-49
+Under 25K,27.0,13,70.0,Male,Junior college,A little dissatisfied,One of most important,18-29
+Under 25K,39.0,16,80.0,Male,Bachelor,Very satisfied,One of most important,30-39
+Over 25K,45.0,12,50.0,Male,High school,Mod satisfied,One of most important,40-49
+Over 25K,45.0,12,60.0,Male,High school,Mod satisfied,Very important,40-49
+Under 25K,47.0,11,36.0,Female,High school,Very satisfied,Very important,40-49
+Under 25K,39.0,12,58.0,Female,High school,Mod satisfied,Very important,30-39
+Under 25K,52.0,12,38.0,Female,High school,A little dissatisfied,Very important,50+
+Over 25K,28.0,17,55.0,Male,Bachelor,Mod satisfied,Somewhat important,18-29
+Under 25K,37.0,12,40.0,Female,High school,Very satisfied,Very important,30-39
+Over 25K,55.0,13,60.0,Male,High school,Mod satisfied,Very important,50+
+Under 25K,46.0,11,60.0,Male,High school,Mod satisfied,Very important,40-49
+Over 25K,63.0,9,48.0,Male,Less than HS,Very satisfied,Very important,50+
+Under 25K,21.0,14,40.0,Female,High school,Very satisfied,Very important,18-29
+Under 25K,41.0,12,45.0,Male,High school,Very satisfied,Somewhat important,40-49
+Under 25K,33.0,9,44.0,Male,Less than HS,Mod satisfied,Very important,30-39
+Under 25K,21.0,12,20.0,Male,High school,Mod satisfied,One of most important,18-29
+Under 25K,29.0,11,70.0,Female,Less than HS,Very dissatisfied,Very important,18-29
+Under 25K,41.0,12,60.0,Male,High school,Very satisfied,Very important,40-49
+Over 25K,33.0,20,65.0,Male,Graduate,Very satisfied,Very important,30-39
+Under 25K,58.0,13,38.0,Female,High school,Mod satisfied,Very important,50+
+Over 25K,43.0,14,40.0,Female,High school,Mod satisfied,Somewhat important,40-49
+Under 25K,26.0,13,44.0,Male,High school,Very satisfied,Very important,18-29
+Over 25K,42.0,14,46.0,Male,Junior college,Very satisfied,Very important,40-49
+Under 25K,41.0,12,42.0,Male,High school,Mod satisfied,Somewhat important,40-49
+Under 25K,41.0,12,24.0,Male,High school,Mod satisfied,Very important,40-49
+Under 25K,42.0,14,40.0,Female,Junior college,Mod satisfied,Very important,40-49
+Under 25K,26.0,12,44.0,Male,High school,Mod satisfied,Very important,18-29
+Under 25K,57.0,8,52.0,Female,Less than HS,Mod satisfied,Somewhat important,50+
+Under 25K,50.0,12,44.0,Female,High school,Mod satisfied,Somewhat important,50+
+Over 25K,43.0,18,45.0,Female,Graduate,Very satisfied,Very important,40-49
+Under 25K,30.0,16,40.0,Female,Bachelor,Mod satisfied,Somewhat important,30-39
+Under 25K,58.0,14,50.0,Male,Junior college,Very satisfied,Very important,50+
+Over 25K,82.0,16,36.0,Male,Bachelor,Very satisfied,Very important,50+
+Under 25K,36.0,18,16.0,Female,Bachelor,A little dissatisfied,One of most important,30-39
+Under 25K,27.0,16,45.0,Female,Bachelor,Very satisfied,Very important,18-29
+Under 25K,37.0,13,55.0,Female,High school,Mod satisfied,Very important,30-39
+Under 25K,39.0,12,75.0,Female,High school,Very satisfied,One of most important,30-39
+Under 25K,23.0,12,56.0,Male,High school,Very satisfied,Very important,18-29
+Under 25K,31.0,12,40.0,Male,High school,Mod satisfied,Very important,30-39
+Over 25K,47.0,14,55.0,Male,Junior college,Very satisfied,Very important,40-49
+Under 25K,46.0,14,75.0,Male,High school,A little dissatisfied,Very important,40-49
+Over 25K,35.0,17,50.0,Female,Bachelor,Very satisfied,One of most important,30-39
+Over 25K,34.0,13,44.0,Male,High school,Mod satisfied,Very important,30-39
+Under 25K,47.0,7,61.0,Male,Less than HS,Mod satisfied,One of most important,40-49
+Under 25K,46.0,16,40.0,Female,Bachelor,Mod satisfied,One of most important,40-49
+Over 25K,38.0,14,40.0,Female,High school,Very satisfied,Somewhat important,30-39
+Under 25K,38.0,12,53.0,Male,High school,Mod satisfied,One of most important,30-39
+Over 25K,56.0,12,40.0,Male,High school,Mod satisfied,Somewhat important,50+
+Under 25K,20.0,12,35.0,Female,High school,Very satisfied,One of most important,18-29
+Over 25K,43.0,16,70.0,Male,Bachelor,Very satisfied,Very important,40-49
+Over 25K,39.0,14,40.0,Female,High school,Very satisfied,Very important,30-39
+Over 25K,48.0,16,45.0,Male,Bachelor,Mod satisfied,Somewhat important,40-49
+Under 25K,38.0,14,48.0,Male,Junior college,Very satisfied,Somewhat important,30-39
+Under 25K,44.0,13,50.0,Female,High school,Mod satisfied,Very important,40-49
+Over 25K,35.0,16,45.0,Male,Bachelor,Very satisfied,One of most important,30-39
+Under 25K,24.0,13,40.0,Male,High school,Mod satisfied,Very important,18-29
+Under 25K,37.0,18,60.0,Female,Graduate,Very satisfied,One of most important,30-39
+Over 25K,55.0,17,60.0,Male,Graduate,Very satisfied,One of most important,50+
+Over 25K,38.0,18,40.0,Female,Graduate,Very satisfied,Very important,30-39
+Under 25K,62.0,16,28.0,Female,Bachelor,Mod satisfied,One of most important,50+
+Over 25K,30.0,20,60.0,Male,Graduate,Mod satisfied,One of most important,30-39
+Over 25K,43.0,18,40.0,Male,Graduate,Very satisfied,One of most important,40-49
+Over 25K,32.0,16,60.0,Male,Bachelor,Very satisfied,One of most important,30-39
+Over 25K,35.0,16,40.0,Female,Bachelor,Very satisfied,One of most important,30-39
+Over 25K,31.0,16,28.0,Female,Bachelor,Mod satisfied,One of most important,30-39
+Over 25K,40.0,18,65.0,Male,Graduate,Very satisfied,One of most important,40-49
+Over 25K,51.0,12,35.0,Male,High school,Mod satisfied,One of most important,50+
+Over 25K,24.0,15,45.0,Male,High school,Mod satisfied,Very important,18-29
+Over 25K,38.0,16,60.0,Male,Bachelor,Very satisfied,Very important,30-39
+Over 25K,74.0,12,70.0,Male,High school,Mod satisfied,Somewhat important,50+
+Over 25K,63.0,14,35.0,Female,Junior college,Very satisfied,Very important,50+
+Over 25K,51.0,10,50.0,Male,Less than HS,Mod satisfied,Very important,50+
+Over 25K,33.0,16,70.0,Male,Bachelor,Very satisfied,Very important,30-39
+Under 25K,27.0,20,40.0,Male,Graduate,Very satisfied,Very important,18-29
+Under 25K,22.0,12,40.0,Female,High school,Very dissatisfied,Very important,18-29
+Over 25K,40.0,13,45.0,Male,High school,Very satisfied,Somewhat important,40-49
+Over 25K,43.0,12,50.0,Female,High school,Mod satisfied,Very important,40-49
+Over 25K,35.0,20,80.0,Male,Graduate,A little dissatisfied,Very important,30-39
+Over 25K,39.0,18,60.0,Male,Graduate,Mod satisfied,Very important,30-39
+Over 25K,40.0,18,50.0,Male,Graduate,Mod satisfied,Very important,40-49
+Over 25K,34.0,16,50.0,Male,Graduate,Mod satisfied,Very important,30-39
+Over 25K,77.0,12,35.0,Female,High school,Very satisfied,One of most important,50+
+Over 25K,53.0,14,45.0,Female,High school,Very dissatisfied,Very important,50+
+Under 25K,32.0,12,40.0,Male,Less than HS,Very satisfied,Very important,30-39
+Under 25K,39.0,14,40.0,Female,High school,Very satisfied,Somewhat important,30-39
+Under 25K,47.0,11,40.0,Female,Less than HS,Mod satisfied,One of most important,40-49
+Over 25K,43.0,13,46.0,Male,High school,Very satisfied,Very important,40-49
+Over 25K,46.0,15,60.0,Male,High school,Mod satisfied,One of most important,40-49
+Over 25K,57.0,14,80.0,Female,High school,Very satisfied,Not too important,50+
+Over 25K,28.0,17,40.0,Female,Bachelor,Mod satisfied,Very important,18-29
+Over 25K,26.0,10,50.0,Male,High school,Very satisfied,One of most important,18-29
+Over 25K,45.0,14,40.0,Female,High school,Very satisfied,Very important,40-49
+Over 25K,44.0,12,55.0,Male,High school,Mod satisfied,Very important,40-49
+Over 25K,46.0,14,41.0,Female,Junior college,Mod satisfied,Very important,40-49
+Over 25K,55.0,12,40.0,Female,High school,Mod satisfied,One of most important,50+
+Over 25K,36.0,16,45.0,Male,Bachelor,Mod satisfied,Very important,30-39
+Under 25K,25.0,13,48.0,Female,High school,Mod satisfied,Very important,18-29
+Over 25K,49.0,13,40.0,Male,High school,Very satisfied,One of most important,40-49
+Under 25K,52.0,10,40.0,Male,Less than HS,Mod satisfied,One of most important,50+
+Over 25K,39.0,13,70.0,Male,High school,Very satisfied,Very important,30-39
+Over 25K,27.0,16,45.0,Female,Bachelor,Very satisfied,Very important,18-29
+Over 25K,38.0,12,40.0,Female,High school,Very satisfied,One of most important,30-39
+Over 25K,38.0,18,45.0,Male,Graduate,Mod satisfied,Very important,30-39
+Under 25K,47.0,19,60.0,Male,Graduate,Very dissatisfied,One of most important,40-49
+Under 25K,38.0,13,35.0,Female,High school,A little dissatisfied,Very important,30-39
+Over 25K,43.0,12,60.0,Female,High school,Very satisfied,Very important,40-49
+Over 25K,42.0,13,65.0,Female,High school,Very satisfied,Very important,40-49
+Over 25K,60.0,12,50.0,Male,High school,Mod satisfied,Very important,50+
+Over 25K,47.0,6,40.0,Male,Less than HS,Very satisfied,One of most important,40-49
+Over 25K,36.0,16,50.0,Male,Bachelor,Mod satisfied,Very important,30-39
+Over 25K,45.0,16,40.0,Male,Bachelor,Very satisfied,Very important,40-49
+Over 25K,53.0,18,50.0,Male,Graduate,Mod satisfied,Very important,50+
+Under 25K,44.0,12,40.0,Female,High school,Mod satisfied,Somewhat important,40-49
+Over 25K,49.0,16,40.0,Male,Bachelor,Very satisfied,Somewhat important,40-49
+Over 25K,57.0,16,40.0,Female,Bachelor,Very satisfied,One of most important,50+
+Under 25K,39.0,12,40.0,Female,High school,Very satisfied,Very important,30-39
+Under 25K,48.0,12,48.0,Female,High school,Very satisfied,Very important,40-49
+Under 25K,32.0,9,40.0,Female,Less than HS,Very satisfied,One of most important,30-39
+Under 25K,41.0,15,40.0,Male,High school,Very satisfied,Very important,40-49
+Under 25K,34.0,14,45.0,Female,Junior college,Very satisfied,Very important,30-39
+Over 25K,39.0,16,50.0,Female,Bachelor,Very satisfied,One of most important,30-39
+Over 25K,41.0,19,55.0,Female,Graduate,Very satisfied,Very important,40-49
+Over 25K,56.0,10,40.0,Female,Less than HS,Mod satisfied,One of most important,50+
+Over 25K,35.0,10,37.0,Female,Less than HS,Mod satisfied,One of most important,30-39
+Under 25K,32.0,15,57.0,Male,High school,A little dissatisfied,Somewhat important,30-39
+Over 25K,49.0,11,80.0,Female,High school,Mod satisfied,Very important,40-49
+Under 25K,28.0,12,52.0,Male,High school,Mod satisfied,One of most important,18-29
+Over 25K,45.0,19,75.0,Male,Graduate,Very satisfied,Somewhat important,40-49
+Over 25K,28.0,18,40.0,Male,Graduate,Very dissatisfied,Very important,18-29
+Over 25K,35.0,19,60.0,Male,Graduate,A little dissatisfied,Very important,30-39
+Under 25K,31.0,12,55.0,Female,High school,Very satisfied,One of most important,30-39
+Under 25K,41.0,11,40.0,Female,High school,Very satisfied,Not too important,40-49
+Over 25K,31.0,19,46.0,Female,Graduate,Mod satisfied,Very important,30-39
+Over 25K,30.0,14,80.0,Female,Junior college,Very satisfied,One of most important,30-39
+Over 25K,29.0,18,43.0,Male,Junior college,Very satisfied,Very important,18-29
+Over 25K,28.0,13,40.0,Female,High school,Very dissatisfied,Very important,18-29
+Over 25K,31.0,16,35.0,Female,Bachelor,Mod satisfied,Very important,30-39
+Under 25K,50.0,16,40.0,Female,Bachelor,Mod satisfied,Very important,50+
+Over 25K,50.0,14,70.0,Male,Junior college,Mod satisfied,Very important,50+
+Under 25K,29.0,12,58.0,Female,High school,Mod satisfied,Not too important,18-29
+Under 25K,25.0,17,40.0,Male,Bachelor,Very satisfied,Very important,18-29
+Over 25K,39.0,18,40.0,Female,Bachelor,Mod satisfied,Very important,30-39
+Over 25K,38.0,19,65.0,Male,Bachelor,Very satisfied,Very important,30-39
+Under 25K,37.0,13,40.0,Female,High school,Mod satisfied,One of most important,30-39
+Under 25K,38.0,14,40.0,Female,High school,Very satisfied,One of most important,30-39
+Over 25K,65.0,16,60.0,Male,Bachelor,Very satisfied,One of most important,50+
+Over 25K,58.0,16,60.0,Male,Bachelor,Very satisfied,Somewhat important,50+
+Under 25K,40.0,18,40.0,Female,Bachelor,Very dissatisfied,Very important,40-49
+Under 25K,30.0,16,37.0,Male,Bachelor,Very satisfied,Very important,30-39
+Over 25K,47.0,20,70.0,Male,Graduate,Very satisfied,One of most important,40-49
+Over 25K,49.0,14,80.0,Female,High school,Very satisfied,Very important,40-49
+Under 25K,35.0,15,35.0,Female,Junior college,Very satisfied,Somewhat important,30-39
+Over 25K,58.0,14,60.0,Male,High school,Very satisfied,Very important,50+
+Under 25K,23.0,16,50.0,Female,Bachelor,Very satisfied,Very important,18-29
+Over 25K,30.0,16,40.0,Female,Bachelor,Mod satisfied,Not too important,30-39
+Under 25K,61.0,12,30.0,Female,High school,Mod satisfied,Very important,50+
+Under 25K,41.0,12,44.0,Male,High school,Very satisfied,One of most important,40-49
+Over 25K,27.0,16,32.0,Female,Bachelor,Mod satisfied,One of most important,18-29
+Over 25K,56.0,10,47.0,Male,High school,Mod satisfied,Somewhat important,50+
+Under 25K,25.0,16,55.0,Female,Bachelor,Mod satisfied,Very important,18-29
+Under 25K,28.0,13,55.0,Female,High school,Mod satisfied,Very important,18-29
+Under 25K,31.0,12,60.0,Male,High school,Mod satisfied,Somewhat important,30-39
+Under 25K,31.0,13,66.0,Male,High school,Mod satisfied,One of most important,30-39
+Under 25K,26.0,13,40.0,Male,High school,Mod satisfied,Very important,18-29
+Under 25K,31.0,14,40.0,Male,High school,Very satisfied,Very important,30-39
+Over 25K,42.0,14,25.0,Male,High school,Very satisfied,Very important,40-49
+Over 25K,24.0,14,45.0,Female,High school,Very satisfied,Very important,18-29
+Over 25K,38.0,16,40.0,Male,Bachelor,Very dissatisfied,Very important,30-39
+Over 25K,45.0,13,40.0,Male,High school,Very satisfied,Very important,40-49
+Over 25K,38.0,15,40.0,Female,Junior college,Mod satisfied,Very important,30-39
+Under 25K,52.0,12,50.0,Male,High school,Mod satisfied,One of most important,50+
+Under 25K,44.0,12,32.0,Female,High school,Mod satisfied,Very important,40-49
+Under 25K,25.0,14,40.0,Male,High school,Mod satisfied,Somewhat important,18-29
+Under 25K,39.0,16,40.0,Female,Bachelor,Mod satisfied,Very important,30-39
+Over 25K,56.0,19,50.0,Male,Graduate,Mod satisfied,Very important,50+
+Over 25K,46.0,18,50.0,Female,Graduate,Mod satisfied,Somewhat important,40-49
+Over 25K,45.0,16,50.0,Female,Graduate,Very satisfied,Very important,40-49
+Over 25K,47.0,15,44.0,Male,High school,Very dissatisfied,Very important,40-49
+Over 25K,25.0,16,40.0,Female,Bachelor,Very satisfied,Very important,18-29
+Over 25K,45.0,12,50.0,Male,High school,Mod satisfied,Very important,40-49
+Under 25K,23.0,16,40.0,Female,Bachelor,Very satisfied,Very important,18-29
+Over 25K,57.0,14,50.0,Female,High school,Very satisfied,One of most important,50+
+Under 25K,38.0,12,55.0,Female,High school,Mod satisfied,Very important,30-39
+Under 25K,57.0,12,8.0,Female,High school,Very satisfied,Very important,50+
+Under 25K,25.0,12,50.0,Female,High school,Mod satisfied,Very important,18-29
+Over 25K,35.0,14,50.0,Male,High school,Very satisfied,Very important,30-39
+Under 25K,30.0,12,40.0,Female,High school,Mod satisfied,Very important,30-39
+Over 25K,37.0,14,40.0,Female,High school,Mod satisfied,Somewhat important,30-39
+Over 25K,40.0,12,45.0,Female,High school,A little dissatisfied,Somewhat important,40-49
+Over 25K,38.0,13,55.0,Female,High school,Very satisfied,Somewhat important,30-39
+Over 25K,68.0,12,40.0,Male,High school,Very satisfied,Very important,50+
+Over 25K,35.0,16,55.0,Male,Bachelor,A little dissatisfied,Very important,30-39
+Under 25K,25.0,12,40.0,Male,High school,Very satisfied,One of most important,18-29
+Under 25K,25.0,11,50.0,Female,High school,Mod satisfied,Very important,18-29
+Under 25K,55.0,12,40.0,Female,High school,A little dissatisfied,Very important,50+
+Under 25K,29.0,12,42.0,Female,High school,A little dissatisfied,Somewhat important,18-29
+Under 25K,43.0,12,38.0,Male,High school,Mod satisfied,One of most important,40-49
+Under 25K,35.0,13,40.0,Male,High school,Mod satisfied,Very important,30-39
+Under 25K,36.0,14,43.0,Female,High school,A little dissatisfied,Somewhat important,30-39
+Over 25K,29.0,16,55.0,Male,Bachelor,A little dissatisfied,Very important,18-29
+Under 25K,24.0,11,38.0,Female,Less than HS,Mod satisfied,Very important,18-29
+Over 25K,53.0,15,40.0,Female,High school,Very satisfied,Very important,50+
+Over 25K,37.0,12,50.0,Female,High school,Very satisfied,Very important,30-39
+Over 25K,46.0,12,48.0,Female,High school,Very satisfied,Very important,40-49
+Over 25K,39.0,12,40.0,Male,High school,Very satisfied,One of most important,30-39
+Under 25K,60.0,12,56.0,Male,High school,A little dissatisfied,Very important,50+
+Over 25K,28.0,12,56.0,Male,High school,Very satisfied,Very important,18-29
+Over 25K,58.0,12,45.0,Male,High school,Very satisfied,One of most important,50+
+Over 25K,51.0,12,52.0,Male,High school,Mod satisfied,Very important,50+
+Over 25K,50.0,16,40.0,Female,Bachelor,Very satisfied,One of most important,50+
+Under 25K,58.0,8,41.0,Male,Less than HS,Mod satisfied,Very important,50+
+Over 25K,34.0,12,40.0,Female,High school,Very satisfied,One of most important,30-39
+Over 25K,33.0,12,46.0,Male,High school,A little dissatisfied,Somewhat important,30-39
+Under 25K,42.0,12,40.0,Male,High school,Mod satisfied,Not at all important,40-49
+Over 25K,45.0,15,65.0,Male,High school,Very satisfied,Very important,40-49
+Under 25K,32.0,12,48.0,Female,High school,Mod satisfied,Very important,30-39
+Over 25K,29.0,12,80.0,Male,High school,Mod satisfied,One of most important,18-29
+Under 25K,23.0,12,51.0,Male,High school,Very satisfied,Very important,18-29
+Over 25K,42.0,12,42.0,Male,High school,Very satisfied,Very important,40-49
+Under 25K,28.0,12,40.0,Male,High school,Very satisfied,Very important,18-29
+Under 25K,35.0,12,40.0,Male,High school,Mod satisfied,One of most important,30-39
+Over 25K,45.0,14,50.0,Female,Junior college,Very satisfied,One of most important,40-49
+Over 25K,58.0,16,50.0,Male,Bachelor,Very satisfied,Very important,50+
+Over 25K,58.0,16,70.0,Male,Graduate,Very satisfied,Very important,50+
+Under 25K,67.0,16,46.0,Female,Bachelor,Very satisfied,Very important,50+
+Under 25K,44.0,12,40.0,Female,High school,Mod satisfied,Somewhat important,40-49
+Over 25K,30.0,14,45.0,Male,High school,Very satisfied,One of most important,30-39
+Over 25K,34.0,16,35.0,Female,Bachelor,Very dissatisfied,Very important,30-39
+Over 25K,45.0,13,48.0,Male,High school,A little dissatisfied,Very important,40-49
+Over 25K,47.0,12,40.0,Male,High school,A little dissatisfied,Very important,40-49
+Over 25K,31.0,12,40.0,Female,High school,Very satisfied,Somewhat important,30-39
+Over 25K,25.0,16,40.0,Male,Bachelor,Mod satisfied,Very important,18-29
+Under 25K,40.0,12,40.0,Male,High school,Very satisfied,Very important,40-49
+Over 25K,49.0,12,40.0,Female,High school,Mod satisfied,Very important,40-49
+Over 25K,42.0,13,50.0,Male,High school,A little dissatisfied,Not too important,40-49
+Under 25K,42.0,10,40.0,Female,Less than HS,Mod satisfied,Very important,40-49
+Under 25K,29.0,9,40.0,Male,Less than HS,A little dissatisfied,Very important,18-29
+Under 25K,26.0,13,40.0,Female,High school,Mod satisfied,Somewhat important,18-29
+Under 25K,60.0,14,40.0,Male,Junior college,Mod satisfied,One of most important,50+
+Under 25K,25.0,14,40.0,Female,High school,Very satisfied,Very important,18-29
+Over 25K,44.0,17,35.0,Male,Bachelor,Mod satisfied,One of most important,40-49
+Over 25K,38.0,12,50.0,Male,High school,Very satisfied,Somewhat important,30-39
+Over 25K,34.0,18,45.0,Female,Graduate,Very satisfied,One of most important,30-39
+Over 25K,49.0,16,40.0,Female,Bachelor,Very satisfied,One of most important,40-49
+Under 25K,33.0,19,40.0,Male,Graduate,Very satisfied,Very important,30-39
+Under 25K,55.0,16,80.0,Female,Bachelor,Mod satisfied,Very important,50+
+Under 25K,21.0,12,40.0,Male,High school,Mod satisfied,Very important,18-29
+Over 25K,36.0,17,40.0,Male,Bachelor,Mod satisfied,Very important,30-39
+Under 25K,31.0,12,40.0,Male,High school,Mod satisfied,Very important,30-39
+Over 25K,47.0,12,50.0,Male,High school,Very satisfied,Very important,40-49
+Under 25K,38.0,8,36.0,Male,Less than HS,A little dissatisfied,One of most important,30-39
+Under 25K,49.0,7,30.0,Male,Less than HS,Very satisfied,One of most important,40-49
+Under 25K,39.0,12,65.0,Female,High school,Very satisfied,Very important,30-39
+Under 25K,24.0,11,38.0,Male,Less than HS,Mod satisfied,Very important,18-29
+Under 25K,37.0,12,50.0,Male,High school,Mod satisfied,Very important,30-39
+Under 25K,40.0,12,40.0,Female,High school,Very satisfied,Very important,40-49
+Under 25K,26.0,14,50.0,Male,Junior college,Mod satisfied,Somewhat important,18-29
+Under 25K,33.0,13,40.0,Female,High school,Mod satisfied,Somewhat important,30-39
+Over 25K,50.0,12,40.0,Female,High school,A little dissatisfied,Very important,50+
+Over 25K,46.0,14,40.0,Male,High school,Very satisfied,Somewhat important,40-49
+Over 25K,60.0,13,40.0,Male,Junior college,Very satisfied,Very important,50+
+Over 25K,29.0,16,52.0,Female,Bachelor,Very satisfied,Not too important,18-29
+Over 25K,28.0,17,75.0,Male,High school,Mod satisfied,Somewhat important,18-29
+Over 25K,29.0,16,40.0,Male,Bachelor,Very satisfied,Very important,18-29
+Under 25K,46.0,14,40.0,Female,Junior college,Very satisfied,One of most important,40-49
+Under 25K,47.0,16,5.0,Female,Bachelor,Very satisfied,One of most important,40-49
+Under 25K,36.0,8,48.0,Male,Less than HS,Very satisfied,Very important,30-39
+Under 25K,37.0,10,40.0,Male,High school,Mod satisfied,Very important,30-39
+Under 25K,25.0,13,43.0,Female,High school,Very satisfied,Very important,18-29
+Over 25K,40.0,18,80.0,Male,Graduate,Very satisfied,Very important,40-49
+Under 25K,33.0,13,8.0,Female,High school,A little dissatisfied,Very important,30-39
+Over 25K,39.0,12,72.0,Female,High school,Mod satisfied,Very important,30-39
+Under 25K,33.0,14,40.0,Female,High school,Very satisfied,Very important,30-39
+Under 25K,26.0,12,58.0,Male,High school,Mod satisfied,Very important,18-29
+Under 25K,28.0,12,40.0,Female,High school,Mod satisfied,Very important,18-29
+Over 25K,33.0,16,40.0,Male,Bachelor,A little dissatisfied,Very important,30-39
+Over 25K,35.0,17,50.0,Male,Graduate,Very satisfied,Very important,30-39
+Over 25K,35.0,9,50.0,Male,High school,A little dissatisfied,One of most important,30-39
+Under 25K,42.0,11,40.0,Male,Less than HS,Mod satisfied,Very important,40-49
+Under 25K,23.0,14,50.0,Male,High school,Very satisfied,Very important,18-29
+Under 25K,37.0,13,80.0,Male,High school,Very satisfied,Very important,30-39
+Over 25K,34.0,14,40.0,Male,High school,Very satisfied,One of most important,30-39
+Under 25K,26.0,14,50.0,Male,High school,A little dissatisfied,Very important,18-29
+Over 25K,31.0,20,89.0,Male,Graduate,Very satisfied,Very important,30-39
+Over 25K,53.0,18,40.0,Female,Graduate,Very satisfied,Very important,50+
+Under 25K,25.0,12,43.0,Male,High school,Mod satisfied,Very important,18-29
+Under 25K,37.0,13,40.0,Female,High school,Mod satisfied,Very important,30-39
+Under 25K,58.0,14,65.0,Male,High school,Very satisfied,One of most important,50+
+Under 25K,25.0,16,50.0,Female,Bachelor,Very satisfied,One of most important,18-29
+Under 25K,33.0,10,55.0,Male,Less than HS,Very satisfied,One of most important,30-39
+Over 25K,41.0,15,48.0,Female,High school,Very satisfied,Somewhat important,40-49
+Under 25K,30.0,12,40.0,Male,High school,Mod satisfied,Somewhat important,30-39
+Under 25K,59.0,12,70.0,Male,High school,Mod satisfied,One of most important,50+
+Under 25K,33.0,14,60.0,Male,High school,Mod satisfied,Very important,30-39
+Over 25K,46.0,20,60.0,Female,Graduate,Mod satisfied,Very important,40-49
+Under 25K,25.0,17,45.0,Male,High school,Very satisfied,Very important,18-29
+Over 25K,36.0,16,70.0,Male,Bachelor,Mod satisfied,Very important,30-39
+Under 25K,47.0,12,55.0,Male,High school,Mod satisfied,One of most important,40-49
+Under 25K,28.0,10,40.0,Male,Less than HS,Mod satisfied,Very important,18-29
+Under 25K,28.0,12,40.0,Female,High school,Very satisfied,Somewhat important,18-29
+Under 25K,40.0,12,40.0,Female,High school,Mod satisfied,Very important,40-49
+Under 25K,35.0,15,50.0,Male,High school,Very satisfied,Very important,30-39
+Over 25K,63.0,16,40.0,Female,Bachelor,Very dissatisfied,Very important,50+
+Under 25K,49.0,14,40.0,Female,High school,Mod satisfied,Somewhat important,40-49
+Under 25K,35.0,14,50.0,Male,Junior college,Mod satisfied,Somewhat important,30-39
+Under 25K,32.0,16,42.0,Male,High school,Very satisfied,Very important,30-39
+Under 25K,42.0,19,34.0,Female,Graduate,Mod satisfied,Very important,40-49
+Under 25K,38.0,13,48.0,Male,High school,Mod satisfied,Somewhat important,30-39
+Under 25K,23.0,13,30.0,Female,High school,Mod satisfied,Very important,18-29
+Under 25K,30.0,12,40.0,Male,High school,Very dissatisfied,Very important,30-39
+Under 25K,29.0,12,50.0,Female,High school,A little dissatisfied,Very important,18-29
+Under 25K,37.0,13,56.0,Female,High school,Mod satisfied,Not too important,30-39
+Under 25K,40.0,12,50.0,Male,High school,Very satisfied,Very important,40-49
+Under 25K,29.0,12,40.0,Female,High school,Mod satisfied,Very important,18-29
+Under 25K,59.0,12,40.0,Male,High school,A little dissatisfied,Very important,50+
+Over 25K,35.0,18,60.0,Female,Bachelor,Mod satisfied,Very important,30-39
+Under 25K,50.0,18,35.0,Female,Graduate,Very satisfied,One of most important,50+
+Over 25K,43.0,16,40.0,Male,Bachelor,Mod satisfied,Very important,40-49
+Under 25K,39.0,13,65.0,Female,High school,Mod satisfied,Very important,30-39
+Under 25K,43.0,18,30.0,Female,Bachelor,Mod satisfied,Very important,40-49
+Over 25K,34.0,18,60.0,Male,Bachelor,Very satisfied,Very important,30-39
+Under 25K,57.0,11,40.0,Female,High school,Mod satisfied,Not too important,50+
+Under 25K,28.0,16,35.0,Male,Bachelor,Mod satisfied,Very important,18-29
+Over 25K,42.0,18,40.0,Female,Graduate,Mod satisfied,One of most important,40-49
+Over 25K,57.0,20,70.0,Male,Bachelor,Very satisfied,Very important,50+
+Under 25K,55.0,12,80.0,Male,High school,Very satisfied,Somewhat important,50+
+Under 25K,35.0,12,55.0,Female,High school,Mod satisfied,Not too important,30-39
+Over 25K,34.0,12,65.0,Male,High school,Very satisfied,One of most important,30-39
+Over 25K,21.0,13,45.0,Male,Less than HS,Very satisfied,One of most important,18-29
+Under 25K,32.0,17,30.0,Female,Bachelor,Mod satisfied,One of most important,30-39
+Over 25K,28.0,13,40.0,Male,High school,A little dissatisfied,Not too important,18-29
+Over 25K,42.0,14,40.0,Female,High school,Very satisfied,Very important,40-49
+Over 25K,57.0,17,60.0,Male,Bachelor,A little dissatisfied,One of most important,50+
+Over 25K,53.0,14,70.0,Male,Junior college,A little dissatisfied,One of most important,50+
+Over 25K,42.0,16,44.0,Male,Bachelor,Very satisfied,Very important,40-49
+Over 25K,60.0,13,60.0,Male,High school,Mod satisfied,Very important,50+
+Over 25K,48.0,16,40.0,Female,Bachelor,A little dissatisfied,One of most important,40-49
+Under 25K,41.0,16,30.0,Male,Bachelor,Very satisfied,Very important,40-49
+Under 25K,34.0,14,50.0,Male,Junior college,Mod satisfied,Somewhat important,30-39
+Over 25K,30.0,17,40.0,Male,Graduate,Very satisfied,Very important,30-39
+Under 25K,22.0,12,40.0,Female,High school,Mod satisfied,Very important,18-29
+Under 25K,36.0,13,30.0,Female,High school,Mod satisfied,Somewhat important,30-39
+Under 25K,29.0,12,40.0,Female,High school,A little dissatisfied,One of most important,18-29
+Under 25K,43.0,16,30.0,Male,Bachelor,Mod satisfied,Very important,40-49
+Under 25K,36.0,9,44.0,Male,Less than HS,Mod satisfied,Very important,30-39
+Over 25K,46.0,12,40.0,Female,High school,Mod satisfied,Very important,40-49
+Over 25K,36.0,10,47.0,Male,High school,Very satisfied,Very important,30-39
+Under 25K,46.0,13,40.0,Female,High school,A little dissatisfied,One of most important,40-49
+Over 25K,50.0,13,40.0,Male,High school,Very satisfied,Very important,50+
+Under 25K,24.0,16,60.0,Male,Junior college,Mod satisfied,Very important,18-29
+Under 25K,24.0,16,45.0,Female,Bachelor,Very satisfied,Very important,18-29
+Under 25K,29.0,12,54.0,Female,High school,Mod satisfied,Very important,18-29
+Under 25K,37.0,15,45.0,Female,High school,A little dissatisfied,Very important,30-39
+Under 25K,46.0,12,40.0,Male,High school,Mod satisfied,Very important,40-49
+Under 25K,29.0,12,32.0,Male,High school,Mod satisfied,Very important,18-29
+Over 25K,39.0,16,40.0,Male,Bachelor,Very satisfied,Somewhat important,30-39
+Over 25K,31.0,15,50.0,Male,High school,Mod satisfied,Very important,30-39
+Under 25K,31.0,13,40.0,Female,High school,Mod satisfied,Very important,30-39
+Over 25K,55.0,16,40.0,Male,Bachelor,Mod satisfied,One of most important,50+
+Under 25K,28.0,12,40.0,Male,High school,Mod satisfied,Very important,18-29
+Under 25K,30.0,14,45.0,Female,Junior college,Very satisfied,One of most important,30-39
+Over 25K,62.0,18,60.0,Female,Graduate,Very satisfied,One of most important,50+
+Over 25K,47.0,12,40.0,Male,High school,Mod satisfied,One of most important,40-49
+Under 25K,51.0,12,40.0,Female,High school,Mod satisfied,Very important,50+
+Under 25K,35.0,12,40.0,Female,High school,Very satisfied,Very important,30-39
+Under 25K,40.0,12,48.0,Female,High school,Mod satisfied,Very important,40-49
+Under 25K,38.0,10,65.0,Male,Less than HS,Mod satisfied,Very important,30-39
+Over 25K,47.0,14,40.0,Female,High school,Very satisfied,One of most important,40-49
+Over 25K,36.0,18,40.0,Female,Graduate,Very satisfied,Very important,30-39
+Over 25K,54.0,11,48.0,Male,Less than HS,Very satisfied,One of most important,50+
+Under 25K,62.0,8,45.0,Male,Less than HS,Mod satisfied,Very important,50+
+Under 25K,62.0,7,50.0,Male,Less than HS,Very satisfied,Very important,50+
+Under 25K,20.0,12,42.0,Male,High school,Very satisfied,Somewhat important,18-29
+Under 25K,33.0,9,40.0,Male,High school,Very satisfied,Very important,30-39
+Under 25K,39.0,12,45.0,Male,High school,Very satisfied,Very important,30-39
+Over 25K,54.0,16,50.0,Female,Bachelor,Very satisfied,One of most important,50+
+Over 25K,49.0,12,42.0,Male,High school,Very satisfied,Somewhat important,40-49
+Over 25K,44.0,18,60.0,Male,Graduate,Very satisfied,Very important,40-49
+Under 25K,51.0,6,40.0,Male,Less than HS,Mod satisfied,One of most important,50+
+Over 25K,41.0,12,50.0,Male,High school,Mod satisfied,Very important,40-49
+Under 25K,30.0,12,48.0,Female,High school,A little dissatisfied,Very important,30-39
+Under 25K,31.0,14,32.0,Female,Junior college,Very satisfied,Somewhat important,30-39
+Over 25K,61.0,12,45.0,Male,High school,Very satisfied,Very important,50+
+Under 25K,42.0,12,44.0,Female,High school,Mod satisfied,Very important,40-49
+Under 25K,23.0,16,55.0,Female,Bachelor,Very satisfied,Very important,18-29
+Over 25K,37.0,16,55.0,Male,Bachelor,Mod satisfied,Very important,30-39
+Under 25K,75.0,8,40.0,Male,Less than HS,Mod satisfied,Very important,50+
+Under 25K,26.0,17,50.0,Female,Bachelor,Mod satisfied,Very important,18-29
+Under 25K,44.0,12,40.0,Female,High school,Mod satisfied,One of most important,40-49
+Under 25K,26.0,12,45.0,Male,High school,Very satisfied,Very important,18-29
+Over 25K,50.0,12,24.0,Male,High school,Very satisfied,One of most important,50+
+Under 25K,47.0,12,40.0,Female,High school,Mod satisfied,One of most important,40-49
+Over 25K,58.0,18,45.0,Male,Graduate,Very satisfied,Somewhat important,50+
+Under 25K,25.0,17,40.0,Female,Junior college,Mod satisfied,Very important,18-29
+Under 25K,33.0,17,50.0,Male,Bachelor,Mod satisfied,Very important,30-39
+Over 25K,41.0,14,48.0,Female,High school,Very satisfied,Very important,40-49
+Under 25K,38.0,15,30.0,Female,Junior college,Mod satisfied,Very important,30-39
+Over 25K,48.0,12,38.0,Female,High school,Mod satisfied,Somewhat important,40-49
+Over 25K,47.0,12,38.0,Female,High school,Mod satisfied,Very important,40-49
+Over 25K,28.0,17,60.0,Male,Graduate,Mod satisfied,Somewhat important,18-29
+Over 25K,53.0,20,50.0,Male,Graduate,Very satisfied,Very important,50+
+Over 25K,35.0,17,40.0,Male,Bachelor,Very satisfied,Very important,30-39
+Under 25K,50.72063265472592,14,41.117469381096335,Female,High school,Mod satisfied,Somewhat important,50+
+Under 25K,45.74605937622532,13,65.82019792075107,Male,High school,Mod satisfied,Very important,40-49
+Under 25K,24.775760623305935,12,40.0,Female,High school,Mod satisfied,Very important,18-29
+Under 25K,30.482768751355287,12,43.793078121611785,Female,High school,Very satisfied,Very important,30-39
+Under 25K,24.105907607187792,12,40.31772282156338,Male,High school,Mod satisfied,Very important,18-29
+Under 25K,43.0,17,33.78880335477326,Female,Bachelor,Mod satisfied,Very important,40-49
+Under 25K,35.44100297001972,13,42.44100297001972,Female,High school,A little dissatisfied,Somewhat important,30-39
+Under 25K,56.15842723990271,13,62.36918177128958,Male,High school,Mod satisfied,One of most important,50+
+Under 25K,38.13379858230251,12,57.35034893672688,Female,High school,Mod satisfied,Very important,30-39
+Under 25K,42.0,10,40.54087269362181,Female,High school,Mod satisfied,Very important,40-49
+Under 25K,53.2689870545525,12,39.35171798441357,Female,High school,Mod satisfied,Very important,50+
+Under 25K,52.44902460155105,12,38.29934973436737,Female,High school,Mod satisfied,Very important,50+
+Under 25K,21.555357223496824,12,39.777678611748414,Female,High school,Mod satisfied,Very important,18-29
+Under 25K,37.613511018874135,13,40.0,Female,Junior college,Very satisfied,Very important,30-39
+Under 25K,37.9025984755294,12,55.0,Female,High school,Mod satisfied,Very important,30-39
+Under 25K,35.75025005044386,11,62.75025005044386,Female,High school,Mod satisfied,Very important,30-39
+Under 25K,51.0,15,40.0,Female,High school,Very satisfied,Somewhat important,50+
+Under 25K,26.292954250478047,13,40.0,Female,Junior college,Mod satisfied,Very important,18-29
+Under 25K,58.900719649641026,12,39.80143929928205,Female,High school,Mod satisfied,One of most important,50+
+Under 25K,33.03019093225325,14,40.150954661266255,Female,Junior college,Very satisfied,Very important,30-39
+Under 25K,33.69371992840412,13,41.73429982101031,Female,High school,Very satisfied,Very important,30-39
+Under 25K,34.34181917027209,14,44.31636165945582,Female,Junior college,Very satisfied,Very important,30-39
+Under 25K,38.28369566606095,12,40.0,Male,High school,Mod satisfied,One of most important,30-39
+Under 25K,25.49862771756309,17,43.75343070609228,Male,High school,Very satisfied,Very important,18-29
+Under 25K,43.0,16,39.568677325138125,Female,High school,Very satisfied,Very important,40-49
+Under 25K,24.30018891603341,16,41.62523614504176,Female,Bachelor,Very satisfied,Very important,18-29
+Under 25K,43.84629829410906,12,49.92314914705453,Female,High school,Mod satisfied,Very important,40-49
+Under 25K,25.902822173872003,16,45.0,Female,Bachelor,Very satisfied,Very important,18-29
+Under 25K,31.2052536568774,13,40.0,Male,High school,A little dissatisfied,One of most important,30-39
+Under 25K,31.34720968299451,13,58.95837095101647,Male,High school,Mod satisfied,Somewhat important,30-39
+Under 25K,24.635058873603565,12,51.824705631982184,Female,High school,Very satisfied,Very important,18-29
+Under 25K,35.98589870303366,12,19.943594812134652,Male,High school,Mod satisfied,One of most important,40-49
+Under 25K,41.67259868224586,12,48.83629934112293,Female,High school,Mod satisfied,Very important,40-49
+Under 25K,44.92815705886816,10,40.0,Female,Bachelor,Mod satisfied,One of most important,40-49
+Under 25K,42.424092506865236,12,41.05060499542317,Female,High school,Mod satisfied,Somewhat important,40-49
+Under 25K,34.870530303395604,12,40.0,Female,High school,Mod satisfied,Very important,30-39
+Under 25K,23.0,16,51.69003807419446,Female,Bachelor,Very satisfied,Very important,18-29
